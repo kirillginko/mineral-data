@@ -1,0 +1,154 @@
+{
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "1. The Beatles",
+      "album": "Revolver",
+      "year": 1966
+    },
+    {
+      "rank": 2,
+      "artist": "2. The Beatles",
+      "album": "Abbey Road",
+      "year": 1969
+    },
+    {
+      "rank": 3,
+      "artist": "3. David Bowie",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "year": 1972
+    },
+    {
+      "rank": 4,
+      "artist": "4. Fleetwood Mac",
+      "album": "Rumours",
+      "year": 1977
+    },
+    {
+      "rank": 5,
+      "artist": "5. Pixies",
+      "album": "Doolittle",
+      "year": 1989
+    },
+    {
+      "rank": 6,
+      "artist": "6. Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "year": 1971
+    },
+    {
+      "rank": 7,
+      "artist": "7. Bob Dylan",
+      "album": "Highway 61 Revisited",
+      "year": 1965
+    },
+    {
+      "rank": 8,
+      "artist": "8. Bob Dylan",
+      "album": "Blood on the Tracks",
+      "year": 1975
+    },
+    {
+      "rank": 9,
+      "artist": "9. Paul Simon",
+      "album": "Graceland",
+      "year": 1986
+    },
+    {
+      "rank": 10,
+      "artist": "10. Grateful Dead",
+      "album": "American Beauty",
+      "year": 1970
+    },
+    {
+      "rank": 11,
+      "artist": "11. Santana",
+      "album": "Abraxas",
+      "year": 1970
+    },
+    {
+      "rank": 12,
+      "artist": "12. Pink Floyd",
+      "album": "Wish You Were Here",
+      "year": 1975
+    },
+    {
+      "rank": 13,
+      "artist": "13. U2",
+      "album": "The Joshua Tree",
+      "year": 1987
+    },
+    {
+      "rank": 14,
+      "artist": "14. The Velvet Underground & Nico",
+      "album": "The Velvet Underground & Nico",
+      "year": 1967
+    },
+    {
+      "rank": 15,
+      "artist": "15. Big Star",
+      "album": "Third",
+      "year": 1978
+    },
+    {
+      "rank": 16,
+      "artist": "16. Patti Smith",
+      "album": "Horses",
+      "year": 1975
+    },
+    {
+      "rank": 17,
+      "artist": "17. Elvis Presley",
+      "album": "Elvis Presley",
+      "year": 1956
+    },
+    {
+      "rank": 18,
+      "artist": "18. The Beatles",
+      "album": "Rubber Soul",
+      "year": 1965
+    },
+    {
+      "rank": 19,
+      "artist": "19. Television",
+      "album": "Marquee Moon",
+      "year": 1977
+    },
+    {
+      "rank": 20,
+      "artist": "20. Tom Waits",
+      "album": "Rain Dogs",
+      "year": 1985
+    },
+    {
+      "rank": 21,
+      "artist": "21. Steely Dan",
+      "album": "Aja",
+      "year": 1977
+    },
+    {
+      "rank": 22,
+      "artist": "22. The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967
+    },
+    {
+      "rank": 23,
+      "artist": "23. Eno",
+      "album": "Another Green World",
+      "year": 1975
+    },
+    {
+      "rank": 24,
+      "artist": "24. Pixies",
+      "album": "Surfer Rosa",
+      "year": 1988
+    },
+    {
+      "rank": 25,
+      "artist": "25. Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 1969
+    }
+  ]
+}

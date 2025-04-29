@@ -1,0 +1,49 @@
+{
+  "genres": [
+    {
+      "id": "7",
+      "name": "rock",
+      "url": "https://www.albumoftheyear.org/genre/7-rock/all/"
+    },
+    {
+      "id": "6",
+      "name": "jazz",
+      "url": "https://www.albumoftheyear.org/genre/35-jazz/all/"
+    },
+    {
+      "id": "14",
+      "name": "pop",
+      "url": "https://www.albumoftheyear.org/genre/15-pop/all/"
+    },
+    {
+      "id": "1",
+      "name": "ambient-pop",
+      "url": "https://www.albumoftheyear.org/genre/201-ambient-pop/all/"
+    },
+    {
+      "id": "2",
+      "name": "hip-hop",
+      "url": "https://www.albumoftheyear.org/genre/3-hip-hop/all/"
+    },
+    {
+      "id": "19",
+      "name": "ambient",
+      "url": "https://www.albumoftheyear.org/genre/34-ambient/all/"
+    },
+    {
+      "id": "5",
+      "name": "experimental",
+      "url": "https://www.albumoftheyear.org/genre/9-experimental/all/"
+    },
+    {
+      "id": "11",
+      "name": "folk",
+      "url": "https://www.albumoftheyear.org/genre/5-folk/all/"
+    },
+    {
+      "id": "12",
+      "name": "twee-pop",
+      "url": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/twee-pop/"
+    }
+  ]
+} 

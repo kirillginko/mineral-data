@@ -1,0 +1,154 @@
+{
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "1. The Beatles",
+      "album": "Revolver",
+      "year": 1966
+    },
+    {
+      "rank": 2,
+      "artist": "2. The Beatles",
+      "album": "Abbey Road",
+      "year": 1969
+    },
+    {
+      "rank": 3,
+      "artist": "3. Fleetwood Mac",
+      "album": "Rumours",
+      "year": 1977
+    },
+    {
+      "rank": 4,
+      "artist": "4. David Bowie",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "year": 1972
+    },
+    {
+      "rank": 5,
+      "artist": "5. Paul Simon",
+      "album": "Graceland",
+      "year": 1986
+    },
+    {
+      "rank": 6,
+      "artist": "6. Big Star",
+      "album": "Third",
+      "year": 1978
+    },
+    {
+      "rank": 7,
+      "artist": "7. The Beach Boys",
+      "album": "Pet Sounds",
+      "year": 1966
+    },
+    {
+      "rank": 8,
+      "artist": "8. U2",
+      "album": "The Joshua Tree",
+      "year": 1987
+    },
+    {
+      "rank": 9,
+      "artist": "9. The Beatles",
+      "album": "Rubber Soul",
+      "year": 1965
+    },
+    {
+      "rank": 10,
+      "artist": "10. The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967
+    },
+    {
+      "rank": 11,
+      "artist": "11. Joni Mitchell",
+      "album": "Court and Spark",
+      "year": 1974
+    },
+    {
+      "rank": 12,
+      "artist": "12. David Bowie",
+      "album": "Hunky Dory",
+      "year": 1971
+    },
+    {
+      "rank": 13,
+      "artist": "13. Michael Jackson",
+      "album": "Thriller",
+      "year": 1982
+    },
+    {
+      "rank": 14,
+      "artist": "14. Bruce Springsteen",
+      "album": "Born in the U.S.A.",
+      "year": 1984
+    },
+    {
+      "rank": 15,
+      "artist": "15. R.E.M.",
+      "album": "Automatic for the People",
+      "year": 1992
+    },
+    {
+      "rank": 16,
+      "artist": "16. George Harrison",
+      "album": "All Things Must Pass",
+      "year": 1970
+    },
+    {
+      "rank": 17,
+      "artist": "17. The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 1964
+    },
+    {
+      "rank": 18,
+      "artist": "18. Prince and the Revolution",
+      "album": "Purple Rain",
+      "year": 1984
+    },
+    {
+      "rank": 19,
+      "artist": "19. The Beatles",
+      "album": "The Beatles",
+      "year": 1968
+    },
+    {
+      "rank": 20,
+      "artist": "20. Bruce Springsteen",
+      "album": "Tunnel of Love",
+      "year": 1987
+    },
+    {
+      "rank": 21,
+      "artist": "21. The Beatles",
+      "album": "Help!",
+      "year": 1965
+    },
+    {
+      "rank": 22,
+      "artist": "22. Kate Bush",
+      "album": "Hounds of Love",
+      "year": 1985
+    },
+    {
+      "rank": 23,
+      "artist": "23. Oasis",
+      "album": "Definitely Maybe",
+      "year": 1994
+    },
+    {
+      "rank": 24,
+      "artist": "24. XTC",
+      "album": "Skylarking",
+      "year": 1986
+    },
+    {
+      "rank": 25,
+      "artist": "25. U2",
+      "album": "Achtung Baby",
+      "year": 1991
+    }
+  ]
+}

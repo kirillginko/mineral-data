@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Album List Scraper
+
+A Next.js application for scraping album lists from music websites like Album of the Year and Pitchfork, allowing you to extract artist names, album titles, and release years into structured JSON data.
+
+## Features
+
+- 🔍 Scrape album lists from Album of the Year and Pitchfork
+- 📊 Extract artist, album, and year information
+- 💾 Save results as JSON files
+- 🌐 Simple web interface for easy usage
+- 🛠️ Robust error handling and fallback scraping approaches
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:3000/scraper](http://localhost:3000/scraper) with your browser
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## How to Use
+
+1. Navigate to the Scraper page at `/scraper`
+2. Select your source (Album of the Year or Pitchfork)
+3. Enter a URL in the input field:
+   - For Album of the Year: `https://www.albumoftheyear.org/genre/34-ambient/all/`
+   - For Pitchfork: `https://pitchfork.com/features/lists-and-guides/the-50-best-idm-albums-of-all-time/`
+4. Click "Scrape Albums"
+5. The application will extract album information and display it in a table
+6. Results are automatically saved to the `src/app/data` directory as JSON files
+
+## API Usage
+
+You can also use the scraper API directly:
+
+For Album of the Year:
+
+```
+GET /api/scrape-aoty?url=https://www.albumoftheyear.org/genre/34-ambient/all/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+For Pitchfork:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+GET /api/scrape-pitchfork?url=https://pitchfork.com/features/lists-and-guides/the-50-best-idm-albums-of-all-time/
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technical Details
 
-## Learn More
+The scraper uses a combination of approaches:
 
-To learn more about Next.js, take a look at the following resources:
+1. Specialized parsers for each website:
+   - `aoty-scraper.ts` for Album of the Year
+   - `pitchfork-scraper.ts` for Pitchfork
+2. A generic fallback scraper using Cheerio (`scraper.ts`)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+All scraper implementations handle different page layouts and content structures, with fallback mechanisms to ensure the most comprehensive data extraction possible.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Additional Notes
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- The scrapers respect each website's HTML structure but may need updates if website layouts change
+- For dynamic JavaScript-rendered content, consider uncommenting and using the Puppeteer implementation (requires `npm install puppeteer`)

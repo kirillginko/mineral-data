@@ -1,0 +1,154 @@
+{
+  "albums": [
+    {
+      "rank": 26,
+      "artist": "26. Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 1969
+    },
+    {
+      "rank": 27,
+      "artist": "27. Carole King",
+      "album": "Tapestry",
+      "year": 1971
+    },
+    {
+      "rank": 28,
+      "artist": "28. David Bowie",
+      "album": "Hunky Dory",
+      "year": 1971
+    },
+    {
+      "rank": 29,
+      "artist": "29. Elvis Costello & The Attractions",
+      "album": "This Year's Model",
+      "year": 1978
+    },
+    {
+      "rank": 30,
+      "artist": "30. Bob Dylan",
+      "album": "The Bootleg Series Vol. 4: Bob Dylan Live 1966, The \"Royal Albert Hall\" Concert",
+      "year": 1998
+    },
+    {
+      "rank": 31,
+      "artist": "31. The Stooges",
+      "album": "Fun House",
+      "year": 1970
+    },
+    {
+      "rank": 32,
+      "artist": "32. Talking Heads",
+      "album": "Remain in Light",
+      "year": 1980
+    },
+    {
+      "rank": 33,
+      "artist": "33. Bruce Springsteen",
+      "album": "Born to Run",
+      "year": 1975
+    },
+    {
+      "rank": 34,
+      "artist": "34. Pink Floyd",
+      "album": "The Dark Side of the Moon",
+      "year": 1973
+    },
+    {
+      "rank": 35,
+      "artist": "35. Bruce Springsteen",
+      "album": "Born in the U.S.A.",
+      "year": 1984
+    },
+    {
+      "rank": 36,
+      "artist": "36. Led Zeppelin",
+      "album": "Led Zeppelin II",
+      "year": 1969
+    },
+    {
+      "rank": 37,
+      "artist": "37. Elvis Presley",
+      "album": "Elv1s: 30 #1 Hits",
+      "year": 2002
+    },
+    {
+      "rank": 38,
+      "artist": "38. Wire",
+      "album": "Pink Flag",
+      "year": 1977
+    },
+    {
+      "rank": 39,
+      "artist": "39. The Band",
+      "album": "The Band",
+      "year": 1969
+    },
+    {
+      "rank": 40,
+      "artist": "40. Soundgarden",
+      "album": "Superunknown",
+      "year": 1994
+    },
+    {
+      "rank": 41,
+      "artist": "41. George Harrison",
+      "album": "All Things Must Pass",
+      "year": 1970
+    },
+    {
+      "rank": 42,
+      "artist": "42. R.E.M.",
+      "album": "Automatic for the People",
+      "year": 1992
+    },
+    {
+      "rank": 43,
+      "artist": "43. Black Sabbath",
+      "album": "Paranoid",
+      "year": 1970
+    },
+    {
+      "rank": 44,
+      "artist": "44. The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 1964
+    },
+    {
+      "rank": 45,
+      "artist": "45. Prince and the Revolution",
+      "album": "Purple Rain",
+      "year": 1984
+    },
+    {
+      "rank": 46,
+      "artist": "46. The Beatles",
+      "album": "The Beatles",
+      "year": 1968
+    },
+    {
+      "rank": 47,
+      "artist": "47. David Bowie",
+      "album": "Low",
+      "year": 1977
+    },
+    {
+      "rank": 48,
+      "artist": "48. Neil Young",
+      "album": "On the Beach",
+      "year": 1974
+    },
+    {
+      "rank": 49,
+      "artist": "49. Bruce Springsteen",
+      "album": "Tunnel of Love",
+      "year": 1987
+    },
+    {
+      "rank": 50,
+      "artist": "50. Tom Waits",
+      "album": "Swordfishtrombones",
+      "year": 1983
+    }
+  ]
+}

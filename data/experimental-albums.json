@@ -1,0 +1,360 @@
+{
+  "genre": "experimental",
+  "genreId": "5",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/9-experimental/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "1. This Heat",
+      "album": "This Heat",
+      "year": 1979,
+      "genre": "experimental"
+    },
+    {
+      "rank": 2,
+      "artist": "2. Boards of Canada",
+      "album": "Music Has the Right to Children",
+      "year": 1998,
+      "genre": "experimental"
+    },
+    {
+      "rank": 3,
+      "artist": "3. Sunn O)))",
+      "album": "Black One",
+      "year": 2005,
+      "genre": "experimental"
+    },
+    {
+      "rank": 4,
+      "artist": "4. Laurie Anderson",
+      "album": "Big Science",
+      "year": 1982,
+      "genre": "experimental"
+    },
+    {
+      "rank": 5,
+      "artist": "5. Supersilent",
+      "album": "6",
+      "year": 2003,
+      "genre": "experimental"
+    },
+    {
+      "rank": 6,
+      "artist": "6. Autechre",
+      "album": "NTS Sessions 1-4",
+      "year": 2018,
+      "genre": "experimental"
+    },
+    {
+      "rank": 7,
+      "artist": "7. Stars of the Lid",
+      "album": "And Their Refinement of the Decline",
+      "year": 2007,
+      "genre": "experimental"
+    },
+    {
+      "rank": 8,
+      "artist": "8. Shackleton",
+      "album": "Music For the Quiet Hour / The Drawbar Organ EPs",
+      "year": 2012,
+      "genre": "experimental"
+    },
+    {
+      "rank": 9,
+      "artist": "9. Gazelle Twin & NYX",
+      "album": "Deep England",
+      "year": 2021,
+      "genre": "experimental"
+    },
+    {
+      "rank": 10,
+      "artist": "10. Mica Levi",
+      "album": "Under the Skin",
+      "year": 2014,
+      "genre": "experimental"
+    },
+    {
+      "rank": 11,
+      "artist": "11. Gnod",
+      "album": "Mirror",
+      "year": 2016,
+      "genre": "experimental"
+    },
+    {
+      "rank": 12,
+      "artist": "12. Sunn O)))",
+      "album": "Monoliths and Dimensions",
+      "year": 2009,
+      "genre": "experimental"
+    },
+    {
+      "rank": 13,
+      "artist": "13. The Books",
+      "album": "The Lemon of Pink",
+      "year": 2003,
+      "genre": "experimental"
+    },
+    {
+      "rank": 14,
+      "artist": "14. Oneohtrix Point Never",
+      "album": "Rifts",
+      "year": 2009,
+      "genre": "experimental"
+    },
+    {
+      "rank": 15,
+      "artist": "15. Boards of Canada",
+      "album": "Geogaddi",
+      "year": 2002,
+      "genre": "experimental"
+    },
+    {
+      "rank": 16,
+      "artist": "16. Mount Eerie",
+      "album": "Wind's Poem",
+      "year": 2009,
+      "genre": "experimental"
+    },
+    {
+      "rank": 17,
+      "artist": "17. The Haxan Cloak",
+      "album": "Excavation",
+      "year": 2013,
+      "genre": "experimental"
+    },
+    {
+      "rank": 18,
+      "artist": "18. Tim Hecker",
+      "album": "Ravedeath, 1972",
+      "year": 2011,
+      "genre": "experimental"
+    },
+    {
+      "rank": 19,
+      "artist": "19. Laurel Halo",
+      "album": "Dust",
+      "year": 2017,
+      "genre": "experimental"
+    },
+    {
+      "rank": 20,
+      "artist": "20. Jeff Parker",
+      "album": "Forfolks",
+      "year": 2021,
+      "genre": "experimental"
+    },
+    {
+      "rank": 21,
+      "artist": "21. Joni Void",
+      "album": "Mise En Abyme",
+      "year": 2019,
+      "genre": "experimental"
+    },
+    {
+      "rank": 22,
+      "artist": "22. Ian William Craig",
+      "album": "Centres",
+      "year": 2016,
+      "genre": "experimental"
+    },
+    {
+      "rank": 23,
+      "artist": "23. Avey Tare and Panda Bear",
+      "album": "Spirit They're Gone, Spirit They've Vanished",
+      "year": 2000,
+      "genre": "experimental"
+    },
+    {
+      "rank": 24,
+      "artist": "24. Burial",
+      "album": "Antidawn",
+      "year": 2022,
+      "genre": "experimental"
+    },
+    {
+      "rank": 25,
+      "artist": "25. Sarah Davachi",
+      "album": "Two Sisters",
+      "year": 2022,
+      "genre": "experimental"
+    },
+    {
+      "rank": 51,
+      "artist": "26. Einstürzende Neubauten",
+      "album": "Lament",
+      "year": 2014,
+      "genre": "experimental"
+    },
+    {
+      "rank": 52,
+      "artist": "27. Jefre Cantu-Ledesma",
+      "album": "A Year With 13 Moons",
+      "year": 2015,
+      "genre": "experimental"
+    },
+    {
+      "rank": 53,
+      "artist": "28. William Basinski",
+      "album": "A Shadow in Time",
+      "year": 2017,
+      "genre": "experimental"
+    },
+    {
+      "rank": 54,
+      "artist": "29. Scott Walker",
+      "album": "The Drift",
+      "year": 2006,
+      "genre": "experimental"
+    },
+    {
+      "rank": 55,
+      "artist": "30. Scott Walker",
+      "album": "Tilt",
+      "year": 1995,
+      "genre": "experimental"
+    },
+    {
+      "rank": 56,
+      "artist": "31. Godspeed You! Black Emperor",
+      "album": "'Asunder, Sweet and Other Distress'",
+      "year": 2015,
+      "genre": "experimental"
+    },
+    {
+      "rank": 57,
+      "artist": "32. Pharmakon",
+      "album": "Devour",
+      "year": 2019,
+      "genre": "experimental"
+    },
+    {
+      "rank": 58,
+      "artist": "33. Kali Malone",
+      "album": "The Sacrificial Code",
+      "year": 2019,
+      "genre": "experimental"
+    },
+    {
+      "rank": 59,
+      "artist": "34. Moor Mother",
+      "album": "The Great Bailout",
+      "year": 2024,
+      "genre": "experimental"
+    },
+    {
+      "rank": 60,
+      "artist": "35. Injury Reserve",
+      "album": "By the Time I Get to Phoenix",
+      "year": 2021,
+      "genre": "experimental"
+    },
+    {
+      "rank": 61,
+      "artist": "36. The Caretaker",
+      "album": "An empty bliss beyond this World",
+      "year": 2011,
+      "genre": "experimental"
+    },
+    {
+      "rank": 62,
+      "artist": "37. Oren Ambarchi / Keiji Haino / Jim O'Rourke",
+      "album": "いみくずし (Imikuzushi)",
+      "year": 2012,
+      "genre": "experimental"
+    },
+    {
+      "rank": 63,
+      "artist": "38. William Basinski",
+      "album": "Lamentations",
+      "year": 2020,
+      "genre": "experimental"
+    },
+    {
+      "rank": 64,
+      "artist": "39. Ian William Craig",
+      "album": "Red Sun Through Smoke",
+      "year": 2020,
+      "genre": "experimental"
+    },
+    {
+      "rank": 65,
+      "artist": "40. XAM Duo",
+      "album": "XAM Duo",
+      "year": 2016,
+      "genre": "experimental"
+    },
+    {
+      "rank": 66,
+      "artist": "41. Container",
+      "album": "Adhesive",
+      "year": 2014,
+      "genre": "experimental"
+    },
+    {
+      "rank": 67,
+      "artist": "42. Matana Roberts",
+      "album": "Coin Coin Chapter Five: In the garden​.​.​.",
+      "year": 2023,
+      "genre": "experimental"
+    },
+    {
+      "rank": 68,
+      "artist": "43. The Kniφe",
+      "album": "Shaking the Habitual",
+      "year": 2013,
+      "genre": "experimental"
+    },
+    {
+      "rank": 69,
+      "artist": "44. Holly Herndon",
+      "album": "PROTO",
+      "year": 2019,
+      "genre": "experimental"
+    },
+    {
+      "rank": 70,
+      "artist": "45. Yellow Swans",
+      "album": "Going Places",
+      "year": 2010,
+      "genre": "experimental"
+    },
+    {
+      "rank": 71,
+      "artist": "46. Lonnie Holley",
+      "album": "MITH",
+      "year": 2018,
+      "genre": "experimental"
+    },
+    {
+      "rank": 72,
+      "artist": "47. Dustin Wong",
+      "album": "Mediation of Ecstatic Energy",
+      "year": 2013,
+      "genre": "experimental"
+    },
+    {
+      "rank": 73,
+      "artist": "48. Loscil",
+      "album": "Clara",
+      "year": 2021,
+      "genre": "experimental"
+    },
+    {
+      "rank": 74,
+      "artist": "49. Prurient",
+      "album": "Frozen Niagara Falls",
+      "year": 2015,
+      "genre": "experimental"
+    },
+    {
+      "rank": 75,
+      "artist": "50. Björk",
+      "album": "Medúlla",
+      "year": 2004,
+      "genre": "experimental"
+    }
+  ],
+  "timestamp": "2025-04-29T02:58:30.586Z",
+  "totalAlbums": 50,
+  "pagesScraped": 2
+}

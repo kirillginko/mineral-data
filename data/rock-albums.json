@@ -1,0 +1,360 @@
+{
+  "genre": "rock",
+  "genreId": "7",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/7-rock/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "1. The Beatles",
+      "album": "Revolver",
+      "year": 1966,
+      "genre": "rock"
+    },
+    {
+      "rank": 2,
+      "artist": "2. The Beatles",
+      "album": "Abbey Road",
+      "year": 1969,
+      "genre": "rock"
+    },
+    {
+      "rank": 3,
+      "artist": "3. David Bowie",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "year": 1972,
+      "genre": "rock"
+    },
+    {
+      "rank": 4,
+      "artist": "4. Fleetwood Mac",
+      "album": "Rumours",
+      "year": 1977,
+      "genre": "rock"
+    },
+    {
+      "rank": 5,
+      "artist": "5. Pixies",
+      "album": "Doolittle",
+      "year": 1989,
+      "genre": "rock"
+    },
+    {
+      "rank": 6,
+      "artist": "6. Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "year": 1971,
+      "genre": "rock"
+    },
+    {
+      "rank": 7,
+      "artist": "7. Bob Dylan",
+      "album": "Highway 61 Revisited",
+      "year": 1965,
+      "genre": "rock"
+    },
+    {
+      "rank": 8,
+      "artist": "8. Bob Dylan",
+      "album": "Blood on the Tracks",
+      "year": 1975,
+      "genre": "rock"
+    },
+    {
+      "rank": 9,
+      "artist": "9. Paul Simon",
+      "album": "Graceland",
+      "year": 1986,
+      "genre": "rock"
+    },
+    {
+      "rank": 10,
+      "artist": "10. Grateful Dead",
+      "album": "American Beauty",
+      "year": 1970,
+      "genre": "rock"
+    },
+    {
+      "rank": 11,
+      "artist": "11. Santana",
+      "album": "Abraxas",
+      "year": 1970,
+      "genre": "rock"
+    },
+    {
+      "rank": 12,
+      "artist": "12. Pink Floyd",
+      "album": "Wish You Were Here",
+      "year": 1975,
+      "genre": "rock"
+    },
+    {
+      "rank": 13,
+      "artist": "13. U2",
+      "album": "The Joshua Tree",
+      "year": 1987,
+      "genre": "rock"
+    },
+    {
+      "rank": 14,
+      "artist": "14. The Velvet Underground & Nico",
+      "album": "The Velvet Underground & Nico",
+      "year": 1967,
+      "genre": "rock"
+    },
+    {
+      "rank": 15,
+      "artist": "15. Big Star",
+      "album": "Third",
+      "year": 1978,
+      "genre": "rock"
+    },
+    {
+      "rank": 16,
+      "artist": "16. Patti Smith",
+      "album": "Horses",
+      "year": 1975,
+      "genre": "rock"
+    },
+    {
+      "rank": 17,
+      "artist": "17. Elvis Presley",
+      "album": "Elvis Presley",
+      "year": 1956,
+      "genre": "rock"
+    },
+    {
+      "rank": 18,
+      "artist": "18. The Beatles",
+      "album": "Rubber Soul",
+      "year": 1965,
+      "genre": "rock"
+    },
+    {
+      "rank": 19,
+      "artist": "19. Television",
+      "album": "Marquee Moon",
+      "year": 1977,
+      "genre": "rock"
+    },
+    {
+      "rank": 20,
+      "artist": "20. Tom Waits",
+      "album": "Rain Dogs",
+      "year": 1985,
+      "genre": "rock"
+    },
+    {
+      "rank": 21,
+      "artist": "21. Steely Dan",
+      "album": "Aja",
+      "year": 1977,
+      "genre": "rock"
+    },
+    {
+      "rank": 22,
+      "artist": "22. The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967,
+      "genre": "rock"
+    },
+    {
+      "rank": 23,
+      "artist": "23. Eno",
+      "album": "Another Green World",
+      "year": 1975,
+      "genre": "rock"
+    },
+    {
+      "rank": 24,
+      "artist": "24. Pixies",
+      "album": "Surfer Rosa",
+      "year": 1988,
+      "genre": "rock"
+    },
+    {
+      "rank": 25,
+      "artist": "25. Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 1969,
+      "genre": "rock"
+    },
+    {
+      "rank": 51,
+      "artist": "26. Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 1969,
+      "genre": "rock"
+    },
+    {
+      "rank": 52,
+      "artist": "27. Carole King",
+      "album": "Tapestry",
+      "year": 1971,
+      "genre": "rock"
+    },
+    {
+      "rank": 53,
+      "artist": "28. David Bowie",
+      "album": "Hunky Dory",
+      "year": 1971,
+      "genre": "rock"
+    },
+    {
+      "rank": 54,
+      "artist": "29. Elvis Costello & The Attractions",
+      "album": "This Year's Model",
+      "year": 1978,
+      "genre": "rock"
+    },
+    {
+      "rank": 55,
+      "artist": "30. Bob Dylan",
+      "album": "The Bootleg Series Vol. 4: Bob Dylan Live 1966, The \"Royal Albert Hall\" Concert",
+      "year": 1998,
+      "genre": "rock"
+    },
+    {
+      "rank": 56,
+      "artist": "31. The Stooges",
+      "album": "Fun House",
+      "year": 1970,
+      "genre": "rock"
+    },
+    {
+      "rank": 57,
+      "artist": "32. Talking Heads",
+      "album": "Remain in Light",
+      "year": 1980,
+      "genre": "rock"
+    },
+    {
+      "rank": 58,
+      "artist": "33. Bruce Springsteen",
+      "album": "Born to Run",
+      "year": 1975,
+      "genre": "rock"
+    },
+    {
+      "rank": 59,
+      "artist": "34. Pink Floyd",
+      "album": "The Dark Side of the Moon",
+      "year": 1973,
+      "genre": "rock"
+    },
+    {
+      "rank": 60,
+      "artist": "35. Bruce Springsteen",
+      "album": "Born in the U.S.A.",
+      "year": 1984,
+      "genre": "rock"
+    },
+    {
+      "rank": 61,
+      "artist": "36. Led Zeppelin",
+      "album": "Led Zeppelin II",
+      "year": 1969,
+      "genre": "rock"
+    },
+    {
+      "rank": 62,
+      "artist": "37. Elvis Presley",
+      "album": "Elv1s: 30 #1 Hits",
+      "year": 2002,
+      "genre": "rock"
+    },
+    {
+      "rank": 63,
+      "artist": "38. Wire",
+      "album": "Pink Flag",
+      "year": 1977,
+      "genre": "rock"
+    },
+    {
+      "rank": 64,
+      "artist": "39. The Band",
+      "album": "The Band",
+      "year": 1969,
+      "genre": "rock"
+    },
+    {
+      "rank": 65,
+      "artist": "40. Soundgarden",
+      "album": "Superunknown",
+      "year": 1994,
+      "genre": "rock"
+    },
+    {
+      "rank": 66,
+      "artist": "41. George Harrison",
+      "album": "All Things Must Pass",
+      "year": 1970,
+      "genre": "rock"
+    },
+    {
+      "rank": 67,
+      "artist": "42. R.E.M.",
+      "album": "Automatic for the People",
+      "year": 1992,
+      "genre": "rock"
+    },
+    {
+      "rank": 68,
+      "artist": "43. Black Sabbath",
+      "album": "Paranoid",
+      "year": 1970,
+      "genre": "rock"
+    },
+    {
+      "rank": 69,
+      "artist": "44. The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 1964,
+      "genre": "rock"
+    },
+    {
+      "rank": 70,
+      "artist": "45. Prince and the Revolution",
+      "album": "Purple Rain",
+      "year": 1984,
+      "genre": "rock"
+    },
+    {
+      "rank": 71,
+      "artist": "46. The Beatles",
+      "album": "The Beatles",
+      "year": 1968,
+      "genre": "rock"
+    },
+    {
+      "rank": 72,
+      "artist": "47. David Bowie",
+      "album": "Low",
+      "year": 1977,
+      "genre": "rock"
+    },
+    {
+      "rank": 73,
+      "artist": "48. Neil Young",
+      "album": "On the Beach",
+      "year": 1974,
+      "genre": "rock"
+    },
+    {
+      "rank": 74,
+      "artist": "49. Bruce Springsteen",
+      "album": "Tunnel of Love",
+      "year": 1987,
+      "genre": "rock"
+    },
+    {
+      "rank": 75,
+      "artist": "50. Tom Waits",
+      "album": "Swordfishtrombones",
+      "year": 1983,
+      "genre": "rock"
+    }
+  ],
+  "timestamp": "2025-04-29T02:45:00.060Z",
+  "totalAlbums": 50,
+  "pagesScraped": 2
+}

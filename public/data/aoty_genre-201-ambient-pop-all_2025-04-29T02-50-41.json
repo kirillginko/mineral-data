@@ -1,0 +1,154 @@
+{
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "1. Arthur Russell",
+      "album": "Picture of Bunny Rabbit",
+      "year": 2023
+    },
+    {
+      "rank": 2,
+      "artist": "2. David Sylvian",
+      "album": "A Victim of Stars 1982-2012",
+      "year": 2012
+    },
+    {
+      "rank": 3,
+      "artist": "3. Kate Bush",
+      "album": "50 Words for Snow",
+      "year": 2011
+    },
+    {
+      "rank": 4,
+      "artist": "4. Low",
+      "album": "Double Negative",
+      "year": 2018
+    },
+    {
+      "rank": 5,
+      "artist": "5. Julie Byrne",
+      "album": "The Greater Wings",
+      "year": 2023
+    },
+    {
+      "rank": 6,
+      "artist": "6. Kathryn Joseph",
+      "album": "for you who are the wronged",
+      "year": 2022
+    },
+    {
+      "rank": 7,
+      "artist": "7. Sigur Rós",
+      "album": "Ágætis byrjun",
+      "year": 1999
+    },
+    {
+      "rank": 8,
+      "artist": "8. The American Analog Set",
+      "album": "Know By Heart",
+      "year": 2001
+    },
+    {
+      "rank": 9,
+      "artist": "9. Beverly Glenn-Copeland",
+      "album": "Transmissions: The Music of Beverly Glenn-Copeland",
+      "year": 2020
+    },
+    {
+      "rank": 10,
+      "artist": "10. Keeley Forsyth",
+      "album": "Limbs",
+      "year": 2022
+    },
+    {
+      "rank": 11,
+      "artist": "11. Broadcast",
+      "album": "Spell Blanket",
+      "year": 2024
+    },
+    {
+      "rank": 12,
+      "artist": "12. yeule",
+      "album": "Glitch Princess",
+      "year": 2022
+    },
+    {
+      "rank": 13,
+      "artist": "13. Stereolab",
+      "album": "Dots and Loops",
+      "year": 1997
+    },
+    {
+      "rank": 14,
+      "artist": "14. Thom Yorke",
+      "album": "ANIMA",
+      "year": 2019
+    },
+    {
+      "rank": 15,
+      "artist": "15. Vanishing Twin",
+      "album": "The Age Of Immunology",
+      "year": 2019
+    },
+    {
+      "rank": 16,
+      "artist": "16. Dawn Richard & Spencer Zahn",
+      "album": "Pigments",
+      "year": 2022
+    },
+    {
+      "rank": 17,
+      "artist": "17. Helado Negro",
+      "album": "Far In",
+      "year": 2021
+    },
+    {
+      "rank": 18,
+      "artist": "18. Jenny Hval",
+      "album": "Blood Bitch",
+      "year": 2016
+    },
+    {
+      "rank": 19,
+      "artist": "19. Low",
+      "album": "HEY WHAT",
+      "year": 2021
+    },
+    {
+      "rank": 20,
+      "artist": "20. Kate Bush",
+      "album": "Aerial",
+      "year": 2005
+    },
+    {
+      "rank": 21,
+      "artist": "21. Keeley Forsyth",
+      "album": "Debris",
+      "year": 2020
+    },
+    {
+      "rank": 22,
+      "artist": "22. Saint Etienne",
+      "album": "I've Been Trying To Tell You",
+      "year": 2021
+    },
+    {
+      "rank": 23,
+      "artist": "23. Deakin",
+      "album": "Sleep Cycle",
+      "year": 2016
+    },
+    {
+      "rank": 24,
+      "artist": "24. Saltland",
+      "album": "A Common Truth",
+      "year": 2017
+    },
+    {
+      "rank": 25,
+      "artist": "25. Kelly Lee Owens",
+      "album": "Kelly Lee Owens",
+      "year": 2017
+    }
+  ]
+}

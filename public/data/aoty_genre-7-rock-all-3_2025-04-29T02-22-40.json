@@ -1,0 +1,154 @@
+{
+  "albums": [
+    {
+      "rank": 51,
+      "artist": "51. AC/DC",
+      "album": "Back in Black",
+      "year": 1980
+    },
+    {
+      "rank": 52,
+      "artist": "52. Elvis Costello",
+      "album": "My Aim Is True",
+      "year": 1977
+    },
+    {
+      "rank": 53,
+      "artist": "53. Bruce Springsteen",
+      "album": "Darkness on the Edge of Town",
+      "year": 1978
+    },
+    {
+      "rank": 54,
+      "artist": "54. Neu!",
+      "album": "Neu!",
+      "year": 1972
+    },
+    {
+      "rank": 55,
+      "artist": "55. The Beatles",
+      "album": "Help!",
+      "year": 1965
+    },
+    {
+      "rank": 56,
+      "artist": "56. Talking Heads",
+      "album": "Fear of Music",
+      "year": 1979
+    },
+    {
+      "rank": 57,
+      "artist": "57. Bruce Springsteen",
+      "album": "The River",
+      "year": 1980
+    },
+    {
+      "rank": 58,
+      "artist": "58. Funkadelic",
+      "album": "Maggot Brain",
+      "year": 1971
+    },
+    {
+      "rank": 59,
+      "artist": "59. Joy Division",
+      "album": "Closer",
+      "year": 1980
+    },
+    {
+      "rank": 60,
+      "artist": "60. Oasis",
+      "album": "Definitely Maybe",
+      "year": 1994
+    },
+    {
+      "rank": 61,
+      "artist": "61. XTC",
+      "album": "Skylarking",
+      "year": 1986
+    },
+    {
+      "rank": 62,
+      "artist": "62. Radiohead",
+      "album": "OK Computer",
+      "year": 1997
+    },
+    {
+      "rank": 63,
+      "artist": "63. David Crosby",
+      "album": "If I Could Only Remember My Name",
+      "year": 1971
+    },
+    {
+      "rank": 64,
+      "artist": "64. Tom Petty and the Heartbreakers",
+      "album": "Damn the Torpedoes",
+      "year": 1979
+    },
+    {
+      "rank": 65,
+      "artist": "65. R.E.M.",
+      "album": "Murmur",
+      "year": 1983
+    },
+    {
+      "rank": 66,
+      "artist": "66. The Rolling Stones",
+      "album": "Some Girls",
+      "year": 1978
+    },
+    {
+      "rank": 67,
+      "artist": "67. Brian Eno",
+      "album": "Before and After Science",
+      "year": 1977
+    },
+    {
+      "rank": 68,
+      "artist": "68. U2",
+      "album": "Achtung Baby",
+      "year": 1991
+    },
+    {
+      "rank": 69,
+      "artist": "69. Pink Floyd",
+      "album": "The Piper at the Gates of Dawn",
+      "year": 1967
+    },
+    {
+      "rank": 70,
+      "artist": "70. Neu!",
+      "album": "Neu! '75",
+      "year": 1975
+    },
+    {
+      "rank": 71,
+      "artist": "71. Roxy Music",
+      "album": "For Your Pleasure",
+      "year": 1973
+    },
+    {
+      "rank": 72,
+      "artist": "72. Iggy Pop",
+      "album": "Lust for Life",
+      "year": 1977
+    },
+    {
+      "rank": 73,
+      "artist": "73. The Zombies",
+      "album": "Odessey and Oracle",
+      "year": 1968
+    },
+    {
+      "rank": 74,
+      "artist": "74. Led Zeppelin",
+      "album": "Mothership",
+      "year": 2007
+    },
+    {
+      "rank": 75,
+      "artist": "75. Roxy Music",
+      "album": "Country Life",
+      "year": 1974
+    }
+  ]
+}

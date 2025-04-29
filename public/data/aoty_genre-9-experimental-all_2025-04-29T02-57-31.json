@@ -1,0 +1,154 @@
+{
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "1. This Heat",
+      "album": "This Heat",
+      "year": 1979
+    },
+    {
+      "rank": 2,
+      "artist": "2. Boards of Canada",
+      "album": "Music Has the Right to Children",
+      "year": 1998
+    },
+    {
+      "rank": 3,
+      "artist": "3. Sunn O)))",
+      "album": "Black One",
+      "year": 2005
+    },
+    {
+      "rank": 4,
+      "artist": "4. Laurie Anderson",
+      "album": "Big Science",
+      "year": 1982
+    },
+    {
+      "rank": 5,
+      "artist": "5. Supersilent",
+      "album": "6",
+      "year": 2003
+    },
+    {
+      "rank": 6,
+      "artist": "6. Autechre",
+      "album": "NTS Sessions 1-4",
+      "year": 2018
+    },
+    {
+      "rank": 7,
+      "artist": "7. Stars of the Lid",
+      "album": "And Their Refinement of the Decline",
+      "year": 2007
+    },
+    {
+      "rank": 8,
+      "artist": "8. Shackleton",
+      "album": "Music For the Quiet Hour / The Drawbar Organ EPs",
+      "year": 2012
+    },
+    {
+      "rank": 9,
+      "artist": "9. Gazelle Twin & NYX",
+      "album": "Deep England",
+      "year": 2021
+    },
+    {
+      "rank": 10,
+      "artist": "10. Mica Levi",
+      "album": "Under the Skin",
+      "year": 2014
+    },
+    {
+      "rank": 11,
+      "artist": "11. Gnod",
+      "album": "Mirror",
+      "year": 2016
+    },
+    {
+      "rank": 12,
+      "artist": "12. Sunn O)))",
+      "album": "Monoliths and Dimensions",
+      "year": 2009
+    },
+    {
+      "rank": 13,
+      "artist": "13. The Books",
+      "album": "The Lemon of Pink",
+      "year": 2003
+    },
+    {
+      "rank": 14,
+      "artist": "14. Oneohtrix Point Never",
+      "album": "Rifts",
+      "year": 2009
+    },
+    {
+      "rank": 15,
+      "artist": "15. Boards of Canada",
+      "album": "Geogaddi",
+      "year": 2002
+    },
+    {
+      "rank": 16,
+      "artist": "16. Mount Eerie",
+      "album": "Wind's Poem",
+      "year": 2009
+    },
+    {
+      "rank": 17,
+      "artist": "17. The Haxan Cloak",
+      "album": "Excavation",
+      "year": 2013
+    },
+    {
+      "rank": 18,
+      "artist": "18. Tim Hecker",
+      "album": "Ravedeath, 1972",
+      "year": 2011
+    },
+    {
+      "rank": 19,
+      "artist": "19. Laurel Halo",
+      "album": "Dust",
+      "year": 2017
+    },
+    {
+      "rank": 20,
+      "artist": "20. Jeff Parker",
+      "album": "Forfolks",
+      "year": 2021
+    },
+    {
+      "rank": 21,
+      "artist": "21. Joni Void",
+      "album": "Mise En Abyme",
+      "year": 2019
+    },
+    {
+      "rank": 22,
+      "artist": "22. Ian William Craig",
+      "album": "Centres",
+      "year": 2016
+    },
+    {
+      "rank": 23,
+      "artist": "23. Avey Tare and Panda Bear",
+      "album": "Spirit They're Gone, Spirit They've Vanished",
+      "year": 2000
+    },
+    {
+      "rank": 24,
+      "artist": "24. Burial",
+      "album": "Antidawn",
+      "year": 2022
+    },
+    {
+      "rank": 25,
+      "artist": "25. Sarah Davachi",
+      "album": "Two Sisters",
+      "year": 2022
+    }
+  ]
+}

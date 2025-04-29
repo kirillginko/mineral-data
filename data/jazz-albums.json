@@ -1,0 +1,360 @@
+{
+  "genre": "jazz",
+  "genreId": "6",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/35-jazz/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "1. Miles Davis",
+      "album": "Kind of Blue",
+      "year": 1959,
+      "genre": "jazz"
+    },
+    {
+      "rank": 2,
+      "artist": "2. Miles Davis",
+      "album": "Sketches of Spain",
+      "year": 1960,
+      "genre": "jazz"
+    },
+    {
+      "rank": 3,
+      "artist": "3. Anaïs Mitchell",
+      "album": "Hadestown",
+      "year": 2010,
+      "genre": "jazz"
+    },
+    {
+      "rank": 4,
+      "artist": "4. Charles Lloyd",
+      "album": "The Sky Will Still Be There Tomorrow",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 5,
+      "artist": "5. Cécile McLorin Salvant",
+      "album": "Dreams and Daggers",
+      "year": 2017,
+      "genre": "jazz"
+    },
+    {
+      "rank": 6,
+      "artist": "6. jaimie branch",
+      "album": "Fly or Die Fly or Die Fly or Die ((world war))",
+      "year": 2023,
+      "genre": "jazz"
+    },
+    {
+      "rank": 7,
+      "artist": "7. Corinne Bailey Rae",
+      "album": "Black Rainbows",
+      "year": 2023,
+      "genre": "jazz"
+    },
+    {
+      "rank": 8,
+      "artist": "8. Buena Vista Social Club",
+      "album": "At Carnegie Hall",
+      "year": 2008,
+      "genre": "jazz"
+    },
+    {
+      "rank": 9,
+      "artist": "9. Matana Roberts",
+      "album": "Coin Coin Chapter Two: Mississippi Moonchile",
+      "year": 2013,
+      "genre": "jazz"
+    },
+    {
+      "rank": 10,
+      "artist": "10. Miles Davis",
+      "album": "Live-Evil",
+      "year": 1971,
+      "genre": "jazz"
+    },
+    {
+      "rank": 11,
+      "artist": "11. Julian Lage",
+      "album": "Speak To Me",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 12,
+      "artist": "12. John Coltrane",
+      "album": "A Love Supreme: Live in Seattle",
+      "year": 2021,
+      "genre": "jazz"
+    },
+    {
+      "rank": 13,
+      "artist": "13. Wayne Shorter Quartet",
+      "album": "Without a Net",
+      "year": 2013,
+      "genre": "jazz"
+    },
+    {
+      "rank": 14,
+      "artist": "14. Floating Points, Pharoah Sanders & The London Symphony Orchestra",
+      "album": "Promises",
+      "year": 2021,
+      "genre": "jazz"
+    },
+    {
+      "rank": 15,
+      "artist": "15. Matana Roberts",
+      "album": "COIN COIN Chapter Four: Memphis",
+      "year": 2019,
+      "genre": "jazz"
+    },
+    {
+      "rank": 16,
+      "artist": "16. Cécile McLorin Salvant",
+      "album": "Mélusine",
+      "year": 2023,
+      "genre": "jazz"
+    },
+    {
+      "rank": 17,
+      "artist": "17. Sons of Kemet",
+      "album": "Black To The Future",
+      "year": 2021,
+      "genre": "jazz"
+    },
+    {
+      "rank": 18,
+      "artist": "18. Jason Moran",
+      "album": "All Rise: A Joyful Elegy for Fats Waller",
+      "year": 2014,
+      "genre": "jazz"
+    },
+    {
+      "rank": 19,
+      "artist": "19. Kamasi Washington",
+      "album": "The Epic",
+      "year": 2015,
+      "genre": "jazz"
+    },
+    {
+      "rank": 20,
+      "artist": "20. John Coltrane",
+      "album": "Both Directions at Once: The Lost Album",
+      "year": 2018,
+      "genre": "jazz"
+    },
+    {
+      "rank": 21,
+      "artist": "21. Yazz Ahmed",
+      "album": "A Paradise In The Hold",
+      "year": 2025,
+      "genre": "jazz"
+    },
+    {
+      "rank": 22,
+      "artist": "22. Maria Schneider Orchestra",
+      "album": "Data Lords",
+      "year": 2020,
+      "genre": "jazz"
+    },
+    {
+      "rank": 23,
+      "artist": "23. John Coltrane",
+      "album": "Offering: Live at Temple University",
+      "year": 2014,
+      "genre": "jazz"
+    },
+    {
+      "rank": 24,
+      "artist": "24. Arooj Aftab",
+      "album": "Night Reign",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 25,
+      "artist": "25. Nala Sinephro",
+      "album": "Space 1.8",
+      "year": 2021,
+      "genre": "jazz"
+    },
+    {
+      "rank": 51,
+      "artist": "26. John Coltrane With Eric Dolphy",
+      "album": "Evenings at the Village Gate",
+      "year": 2023,
+      "genre": "jazz"
+    },
+    {
+      "rank": 52,
+      "artist": "27. Binker and Moses",
+      "album": "Feeding the Machine",
+      "year": 2022,
+      "genre": "jazz"
+    },
+    {
+      "rank": 53,
+      "artist": "28. Alice Coltrane",
+      "album": "The Carnegie Hall Concert",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 54,
+      "artist": "29. Flying Lotus",
+      "album": "You're Dead!",
+      "year": 2014,
+      "genre": "jazz"
+    },
+    {
+      "rank": 55,
+      "artist": "30. Mark Hollis",
+      "album": "Mark Hollis",
+      "year": 1998,
+      "genre": "jazz"
+    },
+    {
+      "rank": 56,
+      "artist": "31. Pharoah Sanders",
+      "album": "Black Unity",
+      "year": 1972,
+      "genre": "jazz"
+    },
+    {
+      "rank": 57,
+      "artist": "32. Zara McFarlane",
+      "album": "Sweet Whispers: Celebrating Sarah Vaughan",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 58,
+      "artist": "33. Sarathy Korwar",
+      "album": "KALAK",
+      "year": 2022,
+      "genre": "jazz"
+    },
+    {
+      "rank": 59,
+      "artist": "34. Nala Sinephro",
+      "album": "Endlessness",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 60,
+      "artist": "35. Esperanza Spalding",
+      "album": "Emily's D+Evolution",
+      "year": 2016,
+      "genre": "jazz"
+    },
+    {
+      "rank": 61,
+      "artist": "36. Kamasi Washington",
+      "album": "Heaven and Earth",
+      "year": 2018,
+      "genre": "jazz"
+    },
+    {
+      "rank": 62,
+      "artist": "37. Vijay Iyer, Linda May Han Oh & Tyshawn Sorey",
+      "album": "Compassion",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 63,
+      "artist": "38. Amaro Freitas",
+      "album": "Y'Y",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 64,
+      "artist": "39. Ezra Collective",
+      "album": "Dance, No One's Watching",
+      "year": 2024,
+      "genre": "jazz"
+    },
+    {
+      "rank": 65,
+      "artist": "40. Allen Toussaint",
+      "album": "The Bright Mississippi",
+      "year": 2009,
+      "genre": "jazz"
+    },
+    {
+      "rank": 66,
+      "artist": "41. Alice Coltrane",
+      "album": "Ptah, The El Daoud",
+      "year": 1970,
+      "genre": "jazz"
+    },
+    {
+      "rank": 67,
+      "artist": "42. Matana Roberts",
+      "album": "Coin Coin Chapter One: Gens De Couleur Libre",
+      "year": 2011,
+      "genre": "jazz"
+    },
+    {
+      "rank": 68,
+      "artist": "43. Gil Scott-Heron & Makaya McCraven",
+      "album": "We're New Again",
+      "year": 2020,
+      "genre": "jazz"
+    },
+    {
+      "rank": 69,
+      "artist": "44. Natural Information Society",
+      "album": "Since Time Is Gravity",
+      "year": 2023,
+      "genre": "jazz"
+    },
+    {
+      "rank": 70,
+      "artist": "45. Dawn Richard & Spencer Zahn",
+      "album": "Pigments",
+      "year": 2022,
+      "genre": "jazz"
+    },
+    {
+      "rank": 71,
+      "artist": "46. Tom Waits",
+      "album": "Alice",
+      "year": 2002,
+      "genre": "jazz"
+    },
+    {
+      "rank": 72,
+      "artist": "47. Vijay Iyer, Linda May Han Oh & Tyshawn Sorey",
+      "album": "Uneasy",
+      "year": 2021,
+      "genre": "jazz"
+    },
+    {
+      "rank": 73,
+      "artist": "48. Shabaka and the Ancestors",
+      "album": "We Are Sent Here By History",
+      "year": 2020,
+      "genre": "jazz"
+    },
+    {
+      "rank": 74,
+      "artist": "49. Emma-Jean Thackray",
+      "album": "Yellow",
+      "year": 2021,
+      "genre": "jazz"
+    },
+    {
+      "rank": 75,
+      "artist": "50. Jeff Parker",
+      "album": "Forfolks",
+      "year": 2021,
+      "genre": "jazz"
+    }
+  ],
+  "timestamp": "2025-04-29T02:47:14.920Z",
+  "totalAlbums": 50,
+  "pagesScraped": 2
+}
