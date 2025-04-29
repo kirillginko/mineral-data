@@ -1,0 +1,885 @@
+{
+  "genre": "ambient",
+  "genreId": "19",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/34-ambient/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "David Bowie",
+      "album": "Low",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 5,
+      "artist": "Burial",
+      "album": "Tunes 2011-2019",
+      "year": 20,
+      "genre": "ambient"
+    },
+    {
+      "rank": 9,
+      "artist": "Brian Eno",
+      "album": "Ambient 1: Music For Airports",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 13,
+      "artist": "Sunn O)))",
+      "album": "Black One",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 17,
+      "artist": "Fennesz",
+      "album": "Endless Summer",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 21,
+      "artist": "Rafael Toral",
+      "album": "Spectral Evolution",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 25,
+      "artist": "Nearly God",
+      "album": "Nearly God",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 27,
+      "artist": "Various Artists",
+      "album": "環境音楽 (Kankyō ongaku): Japanese Ambient, Environmental & New Age Music 1980–1990",
+      "year": 19,
+      "genre": "ambient"
+    },
+    {
+      "rank": 31,
+      "artist": "The Soft Pink Truth",
+      "album": "Shall We Go On Sinning So That Grace May Increase?",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 35,
+      "artist": "Stars of the Lid",
+      "album": "And Their Refinement of the Decline",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 39,
+      "artist": "Shackleton",
+      "album": "Music For the Quiet Hour / The Drawbar Organ EPs",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 43,
+      "artist": "Tim Hecker",
+      "album": "Harmony in Ultraviolet",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 47,
+      "artist": "Eno",
+      "album": "Eno (Original Motion Picture Soundtrack)",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 51,
+      "artist": "David Holmes",
+      "album": "Late Night Tales",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 55,
+      "artist": "Gazelle Twin & NYX",
+      "album": "Deep England",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 59,
+      "artist": "múm",
+      "album": "Yesterday Was Dramatic - Today Is OK",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 62,
+      "artist": "Ólafur Arnalds",
+      "album": "some kind of peace",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 66,
+      "artist": "Kyle Dixon & Michael Stein",
+      "album": "Stranger Things: Volume One",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 70,
+      "artist": "Nils Frahm",
+      "album": "Spaces",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 74,
+      "artist": "Oneohtrix Point Never",
+      "album": "Rifts",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 78,
+      "artist": "Nils Frahm",
+      "album": "Felt",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 82,
+      "artist": "A Winged Victory for the Sullen",
+      "album": "A Winged Victory for the Sullen",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 86,
+      "artist": "The Haxan Cloak",
+      "album": "Excavation",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 90,
+      "artist": "Ryuichi Sakamoto",
+      "album": "async",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 94,
+      "artist": "Nala Sinephro",
+      "album": "Endlessness",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 26,
+      "artist": "Raime",
+      "album": "Quarter Turns Over a Living Line",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 30,
+      "artist": "Tim Hecker",
+      "album": "Ravedeath, 1972",
+      "year": 19,
+      "genre": "ambient"
+    },
+    {
+      "rank": 34,
+      "artist": "Tim Hecker",
+      "album": "Virgins",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 38,
+      "artist": "Fennesz",
+      "album": "Bécs",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 42,
+      "artist": "Dawn Richard & Spencer Zahn",
+      "album": "Pigments",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 46,
+      "artist": "Ryuichi Sakamoto",
+      "album": "12",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 50,
+      "artist": "Andy Stott",
+      "album": "Luxury Problems",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 54,
+      "artist": "Nicolás Jaar",
+      "album": "Cenizas",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 58,
+      "artist": "Jóhann Jóhannsson",
+      "album": "Englabörn",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 61,
+      "artist": "Ian William Craig",
+      "album": "Thresholder",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 65,
+      "artist": "Burial",
+      "album": "Antidawn",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 69,
+      "artist": "Various Artists",
+      "album": "Mono No Aware",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 73,
+      "artist": "Bobby Krlic",
+      "album": "Midsommar",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 77,
+      "artist": "Rich Ruth",
+      "album": "Water Still Flows",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 81,
+      "artist": "Grouper",
+      "album": "Dragging a Dead Deer Up a Hill",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 85,
+      "artist": "Laurel Halo",
+      "album": "Atlas",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 89,
+      "artist": "Adrianne Lenker",
+      "album": "instrumentals",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 93,
+      "artist": "Saint Etienne",
+      "album": "The Night",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 97,
+      "artist": "Ian William Craig",
+      "album": "Centres",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 101,
+      "artist": "Elegi",
+      "album": "Varde",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 105,
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 109,
+      "artist": "William Tyler",
+      "album": "Time Indefinite",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 113,
+      "artist": "Aphex Twin",
+      "album": "Selected Ambient Works Volume II",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 117,
+      "artist": "Hawkwind",
+      "album": "Stories From Time and Space",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 121,
+      "artist": "Gia Margaret",
+      "album": "Romantic Piano",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 51,
+      "artist": "Jon Hassell",
+      "album": "Listening to Pictures (Pentimento Volume One)",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 55,
+      "artist": "Pauline Anna Strom",
+      "album": "Angel Tears in Sunlight",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 59,
+      "artist": "Mary Lattimore",
+      "album": "Silver Ladders",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 63,
+      "artist": "Oneohtrix Point Never",
+      "album": "Returnal",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 67,
+      "artist": "Szun Waves",
+      "album": "New Hymn to Freedom",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 71,
+      "artist": "Forest Swords",
+      "album": "Bolted",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 75,
+      "artist": "Kreng",
+      "album": "L'Autopsie Phénoménale De Dieu",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 79,
+      "artist": "Jefre Cantu-Ledesma",
+      "album": "A Year With 13 Moons",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 83,
+      "artist": "Huerco S.",
+      "album": "For Those Of You Who Have Never (And Also Those Who Have)",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 87,
+      "artist": "William Basinski",
+      "album": "A Shadow in Time",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 91,
+      "artist": "A Winged Victory for the Sullen",
+      "album": "Atomos",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 95,
+      "artist": "Ben Frost",
+      "album": "By The Throat",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 99,
+      "artist": "The Necks",
+      "album": "Bleed",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 103,
+      "artist": "Forest Swords",
+      "album": "Engravings",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 107,
+      "artist": "Bing & Ruth",
+      "album": "Tomorrow Was the Golden Age",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 111,
+      "artist": "Owen Pallett",
+      "album": "Island",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 115,
+      "artist": "A Winged Victory for the Sullen",
+      "album": "The Undivided Five",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 119,
+      "artist": "Fennesz",
+      "album": "Venice",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 123,
+      "artist": "Eluvium",
+      "album": "Talk Amongst the Trees",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 127,
+      "artist": "East India Youth",
+      "album": "Total Strife Forever",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 131,
+      "artist": "Alva Noto + Ryuichi Sakamoto",
+      "album": "Glass",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 135,
+      "artist": "Julianna Barwick",
+      "album": "Nepenthe",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 139,
+      "artist": "The Caretaker",
+      "album": "An empty bliss beyond this World",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 143,
+      "artist": "Laurel Halo",
+      "album": "Raw Silk Uncut Wood",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 147,
+      "artist": "L. Pierre",
+      "album": "The Island Come True",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 76,
+      "artist": "Roly Porter",
+      "album": "Third Law",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 80,
+      "artist": "Masayoshi Fujita",
+      "album": "Migratory",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 84,
+      "artist": "William Basinski",
+      "album": "Lamentations",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 88,
+      "artist": "Nils Frahm",
+      "album": "All Melody",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 92,
+      "artist": "Ian William Craig",
+      "album": "Red Sun Through Smoke",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 96,
+      "artist": "Angelo Badalamenti",
+      "album": "Soundtrack from Twin Peaks",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 100,
+      "artist": "Oren Ambarchi",
+      "album": "Quixotism",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 103,
+      "artist": "Soundwalk Collective & Patti Smith",
+      "album": "Mummer Love",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 105,
+      "artist": "XAM Duo",
+      "album": "XAM Duo",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 109,
+      "artist": "Dawn Richard",
+      "album": "Quiet in a World Full of Noise",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 113,
+      "artist": "Saltland",
+      "album": "A Common Truth",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 117,
+      "artist": "Thom Yorke",
+      "album": "Suspiria (Music for the Luca Guadagnino Film)",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 121,
+      "artist": "Eluvium",
+      "album": "Lambent Material",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 125,
+      "artist": "Wyatt E.",
+      "album": "Zamāru ultu qereb ziqquratu, Pt. 1",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 129,
+      "artist": "Julianna Barwick",
+      "album": "The Magic Place",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 133,
+      "artist": "Loscil & Lawrence English",
+      "album": "Colours Of Air",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 137,
+      "artist": "Whatever The Weather",
+      "album": "Whatever the Weather",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 141,
+      "artist": "Grouper",
+      "album": "Ruins",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 145,
+      "artist": "Leyland Kirby",
+      "album": "Sadly, The Future Is No Longer What It Was",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 147,
+      "artist": "Hildur Guðnadóttir",
+      "album": "Without Sinking",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 151,
+      "artist": "Daniel Bachman",
+      "album": "When The Roses Come Again",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 155,
+      "artist": "Loscil",
+      "album": "Clara",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 159,
+      "artist": "Loscil",
+      "album": "Sea Island",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 163,
+      "artist": "Grouper",
+      "album": "The Man Who Died in His Boat",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 167,
+      "artist": "Tim Hecker",
+      "album": "Love Streams",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 101,
+      "artist": "The Caretaker",
+      "album": "Patience (After Sebald)",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 104,
+      "artist": "Karima Walker",
+      "album": "Waking the Dreaming Body",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 108,
+      "artist": "Nine Inch Nails",
+      "album": "Ghosts V: Together",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 112,
+      "artist": "more eaze",
+      "album": "No Floor",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 116,
+      "artist": "Andrew Tuttle",
+      "album": "Fleeting Adventure",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 118,
+      "artist": "Nine Inch Nails",
+      "album": "Ghosts VI: Locusts",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 122,
+      "artist": "Forest Swords",
+      "album": "Compassion",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 126,
+      "artist": "Sarah Davachi",
+      "album": "Let Night Come On Bells End The Day",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 130,
+      "artist": "Bitchin Bajas & Bonnie 'Prince' Billy",
+      "album": "Epic Jammers and Fortunate Little Ditties",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 133,
+      "artist": "Kaitlyn Aurelia Smith",
+      "album": "EARS",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 137,
+      "artist": "Hannah Peel",
+      "album": "Fir Wave",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 141,
+      "artist": "Oneohtrix Point Never",
+      "album": "Replica",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 145,
+      "artist": "claire rousay",
+      "album": "a softer focus",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 149,
+      "artist": "GAS",
+      "album": "Rausch",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 153,
+      "artist": "Eluvium",
+      "album": "(Whirring Marvels In) Consensus Reality",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 157,
+      "artist": "Szun Waves",
+      "album": "Earth Patterns",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 160,
+      "artist": "Emeralds",
+      "album": "Does It Look Like I'm Here?",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 164,
+      "artist": "Arca",
+      "album": "kiCK iiiii",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 168,
+      "artist": "Mountains",
+      "album": "Centralia",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 172,
+      "artist": "William Basinski",
+      "album": "Cascade",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 176,
+      "artist": "Flying Saucer Attack",
+      "album": "Instrumentals 2015",
+      "year": 20,
+      "genre": "ambient"
+    },
+    {
+      "rank": 180,
+      "artist": "The Dead Texan",
+      "album": "The Dead Texan",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 184,
+      "artist": "Alva Noto + Ryuichi Sakamoto",
+      "album": "The Revenant",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 187,
+      "artist": "Steve Hauschildt",
+      "album": "Strands",
+      "year": 0,
+      "genre": "ambient"
+    },
+    {
+      "rank": 191,
+      "artist": "Peter Broderick",
+      "album": "Music for Confluence",
+      "year": 0,
+      "genre": "ambient"
+    }
+  ],
+  "timestamp": "2025-04-29T18:52:18.372Z",
+  "totalAlbums": 125,
+  "pagesScraped": 5
+}

@@ -1,0 +1,885 @@
+{
+  "genre": "rock",
+  "genreId": "7",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/7-rock/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 5,
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 9,
+      "artist": "David Bowie",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 13,
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 17,
+      "artist": "Pixies",
+      "album": "Doolittle",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 21,
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 25,
+      "artist": "Bob Dylan",
+      "album": "Highway 61 Revisited",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 29,
+      "artist": "Bob Dylan",
+      "album": "Blood on the Tracks",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 33,
+      "artist": "Paul Simon",
+      "album": "Graceland",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 37,
+      "artist": "Grateful Dead",
+      "album": "American Beauty",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 41,
+      "artist": "Santana",
+      "album": "Abraxas",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 45,
+      "artist": "Pink Floyd",
+      "album": "Wish You Were Here",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 49,
+      "artist": "U2",
+      "album": "The Joshua Tree",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 53,
+      "artist": "The Velvet Underground & Nico",
+      "album": "The Velvet Underground & Nico",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 57,
+      "artist": "Big Star",
+      "album": "Third",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 61,
+      "artist": "Patti Smith",
+      "album": "Horses",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 65,
+      "artist": "Elvis Presley",
+      "album": "Elvis Presley",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 69,
+      "artist": "The Beatles",
+      "album": "Rubber Soul",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 73,
+      "artist": "Television",
+      "album": "Marquee Moon",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 77,
+      "artist": "Tom Waits",
+      "album": "Rain Dogs",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 81,
+      "artist": "Steely Dan",
+      "album": "Aja",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 85,
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 89,
+      "artist": "Eno",
+      "album": "Another Green World",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 93,
+      "artist": "Pixies",
+      "album": "Surfer Rosa",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 97,
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 26,
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 30,
+      "artist": "Carole King",
+      "album": "Tapestry",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 34,
+      "artist": "David Bowie",
+      "album": "Hunky Dory",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 38,
+      "artist": "Elvis Costello & The Attractions",
+      "album": "This Year's Model",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 42,
+      "artist": "Bob Dylan",
+      "album": "The Bootleg Series Vol. 4: Bob Dylan Live 1966, The \"Royal Albert Hall\" Concert",
+      "year": 19,
+      "genre": "rock"
+    },
+    {
+      "rank": 46,
+      "artist": "The Stooges",
+      "album": "Fun House",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 50,
+      "artist": "Talking Heads",
+      "album": "Remain in Light",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 54,
+      "artist": "Bruce Springsteen",
+      "album": "Born to Run",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 58,
+      "artist": "Pink Floyd",
+      "album": "The Dark Side of the Moon",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 62,
+      "artist": "Bruce Springsteen",
+      "album": "Born in the U.S.A.",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 66,
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin II",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 70,
+      "artist": "Elvis Presley",
+      "album": "Elv1s: 30 #1 Hits",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 72,
+      "artist": "Wire",
+      "album": "Pink Flag",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 76,
+      "artist": "The Band",
+      "album": "The Band",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 80,
+      "artist": "Soundgarden",
+      "album": "Superunknown",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 84,
+      "artist": "George Harrison",
+      "album": "All Things Must Pass",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 88,
+      "artist": "R.E.M.",
+      "album": "Automatic for the People",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 92,
+      "artist": "Black Sabbath",
+      "album": "Paranoid",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 96,
+      "artist": "The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 100,
+      "artist": "Prince and the Revolution",
+      "album": "Purple Rain",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 104,
+      "artist": "The Beatles",
+      "album": "The Beatles",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 108,
+      "artist": "David Bowie",
+      "album": "Low",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 112,
+      "artist": "Neil Young",
+      "album": "On the Beach",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 116,
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel of Love",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 120,
+      "artist": "Tom Waits",
+      "album": "Swordfishtrombones",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 51,
+      "artist": "AC/DC",
+      "album": "Back in Black",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 55,
+      "artist": "Elvis Costello",
+      "album": "My Aim Is True",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 59,
+      "artist": "Bruce Springsteen",
+      "album": "Darkness on the Edge of Town",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 63,
+      "artist": "Neu!",
+      "album": "Neu!",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 67,
+      "artist": "The Beatles",
+      "album": "Help!",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 71,
+      "artist": "Talking Heads",
+      "album": "Fear of Music",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 75,
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 79,
+      "artist": "Funkadelic",
+      "album": "Maggot Brain",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 83,
+      "artist": "Joy Division",
+      "album": "Closer",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 87,
+      "artist": "Oasis",
+      "album": "Definitely Maybe",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 91,
+      "artist": "XTC",
+      "album": "Skylarking",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 95,
+      "artist": "Radiohead",
+      "album": "OK Computer",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 99,
+      "artist": "David Crosby",
+      "album": "If I Could Only Remember My Name",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 103,
+      "artist": "Tom Petty and the Heartbreakers",
+      "album": "Damn the Torpedoes",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 107,
+      "artist": "R.E.M.",
+      "album": "Murmur",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 111,
+      "artist": "The Rolling Stones",
+      "album": "Some Girls",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 115,
+      "artist": "Brian Eno",
+      "album": "Before and After Science",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 119,
+      "artist": "U2",
+      "album": "Achtung Baby",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 123,
+      "artist": "Pink Floyd",
+      "album": "The Piper at the Gates of Dawn",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 127,
+      "artist": "Neu!",
+      "album": "Neu! '75",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 131,
+      "artist": "Roxy Music",
+      "album": "For Your Pleasure",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 135,
+      "artist": "Iggy Pop",
+      "album": "Lust for Life",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 139,
+      "artist": "The Zombies",
+      "album": "Odessey and Oracle",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 143,
+      "artist": "Led Zeppelin",
+      "album": "Mothership",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 147,
+      "artist": "Roxy Music",
+      "album": "Country Life",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 76,
+      "artist": "David Bowie",
+      "album": "\"Heroes\"",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 80,
+      "artist": "Beck",
+      "album": "Odelay",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 84,
+      "artist": "Nirvana",
+      "album": "MTV Unplugged in New York",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 88,
+      "artist": "Neil Young",
+      "album": "After the Gold Rush",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 92,
+      "artist": "The Smiths",
+      "album": "Hatful of Hollow",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 96,
+      "artist": "Pavement",
+      "album": "Slanted and Enchanted",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 100,
+      "artist": "Nirvana",
+      "album": "In Utero",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 104,
+      "artist": "Sonic Youth",
+      "album": "Daydream Nation",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 108,
+      "artist": "King Crimson",
+      "album": "Red",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 112,
+      "artist": "Robert Wyatt",
+      "album": "Rock Bottom",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 116,
+      "artist": "Lou Reed",
+      "album": "Transformer",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 120,
+      "artist": "Guns N' Roses",
+      "album": "Appetite for Destruction",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 124,
+      "artist": "my bloody valentine",
+      "album": "loveless",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 128,
+      "artist": "Aaron West & The Roaring Twenties",
+      "album": "In Lieu of Flowers",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 132,
+      "artist": "Yo La Tengo",
+      "album": "I Can Hear the Heart Beating as One",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 136,
+      "artist": "Nick Cave & The Bad Seeds",
+      "album": "Skeleton Tree",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 140,
+      "artist": "David Bowie",
+      "album": "Lodger",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 144,
+      "artist": "Fleetwood Mac",
+      "album": "Tusk",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 148,
+      "artist": "The Dismemberment Plan",
+      "album": "Emergency & I",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 152,
+      "artist": "Wilco",
+      "album": "Yankee Hotel Foxtrot",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 156,
+      "artist": "PJ Harvey",
+      "album": "To Bring You My Love",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 160,
+      "artist": "Disco Inferno",
+      "album": "The 5 EPs",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 164,
+      "artist": "The Beatles",
+      "album": "Please Please Me",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 168,
+      "artist": "Wilco",
+      "album": "Summerteeth",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 172,
+      "artist": "This Heat",
+      "album": "This Heat",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 101,
+      "artist": "Pulp",
+      "album": "Different Class",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 105,
+      "artist": "Corinne Bailey Rae",
+      "album": "Black Rainbows",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 109,
+      "artist": "Super Furry Animals",
+      "album": "Songbook: The Singles, Vol. 1",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 112,
+      "artist": "The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 114,
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 118,
+      "artist": "The Cure",
+      "album": "Songs of a Lost World",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 122,
+      "artist": "Jeff Buckley",
+      "album": "Grace",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 126,
+      "artist": "Liz Phair",
+      "album": "Exile in Guyville",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 130,
+      "artist": "Rolling Stones",
+      "album": "Exile on Main St.",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 134,
+      "artist": "Arcade Fire",
+      "album": "Funeral",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 138,
+      "artist": "Cocteau Twins",
+      "album": "Treasure",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 142,
+      "artist": "The La's",
+      "album": "The La's",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 146,
+      "artist": "Bark Psychosis",
+      "album": "Hex",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 150,
+      "artist": "Peter Gabriel",
+      "album": "Peter Gabriel 3: Melt",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 154,
+      "artist": "Spiritualized®",
+      "album": "Ladies and gentlemen we are floating in space",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 158,
+      "artist": "Radiohead",
+      "album": "KID A MNESIA",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 162,
+      "artist": "Smashing Pumpkins",
+      "album": "Siamese Dream",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 166,
+      "artist": "Nick Cave and The Bad Seeds",
+      "album": "Lovely Creatures: The Best of Nick Cave and The Bad Seeds (1984-2014)",
+      "year": 19,
+      "genre": "rock"
+    },
+    {
+      "rank": 170,
+      "artist": "R.E.M.",
+      "album": "Document",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 174,
+      "artist": "Talking Heads",
+      "album": "More Songs About Buildings and Food",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 178,
+      "artist": "Guided by Voices",
+      "album": "The Best of Guided by Voices: Human Amusements at Hourly Rates",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 182,
+      "artist": "Tom Waits",
+      "album": "Bone Machine",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 186,
+      "artist": "Primal Scream",
+      "album": "Vanishing Point",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 190,
+      "artist": "Tom Waits",
+      "album": "Orphans: Brawlers, Bawlers & Bastards",
+      "year": 0,
+      "genre": "rock"
+    },
+    {
+      "rank": 194,
+      "artist": "Muncie Girls",
+      "album": "From Caplan To Belsize",
+      "year": 0,
+      "genre": "rock"
+    }
+  ],
+  "timestamp": "2025-04-29T18:46:47.479Z",
+  "totalAlbums": 125,
+  "pagesScraped": 5
+}

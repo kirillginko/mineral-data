@@ -1,0 +1,885 @@
+{
+  "genre": "pop",
+  "genreId": "14",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/15-pop/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 5,
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 9,
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 13,
+      "artist": "David Bowie",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 17,
+      "artist": "Paul Simon",
+      "album": "Graceland",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 21,
+      "artist": "Big Star",
+      "album": "Third",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 25,
+      "artist": "The Beach Boys",
+      "album": "Pet Sounds",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 29,
+      "artist": "U2",
+      "album": "The Joshua Tree",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 33,
+      "artist": "The Beatles",
+      "album": "Rubber Soul",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 37,
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 41,
+      "artist": "Joni Mitchell",
+      "album": "Court and Spark",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 45,
+      "artist": "David Bowie",
+      "album": "Hunky Dory",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 49,
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 53,
+      "artist": "Bruce Springsteen",
+      "album": "Born in the U.S.A.",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 57,
+      "artist": "R.E.M.",
+      "album": "Automatic for the People",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 61,
+      "artist": "George Harrison",
+      "album": "All Things Must Pass",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 65,
+      "artist": "The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 69,
+      "artist": "Prince and the Revolution",
+      "album": "Purple Rain",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 73,
+      "artist": "The Beatles",
+      "album": "The Beatles",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 77,
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel of Love",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 81,
+      "artist": "The Beatles",
+      "album": "Help!",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 85,
+      "artist": "Kate Bush",
+      "album": "Hounds of Love",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 89,
+      "artist": "Oasis",
+      "album": "Definitely Maybe",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 93,
+      "artist": "XTC",
+      "album": "Skylarking",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 97,
+      "artist": "U2",
+      "album": "Achtung Baby",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 26,
+      "artist": "The Zombies",
+      "album": "Odessey and Oracle",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 30,
+      "artist": "Self Esteem",
+      "album": "Prioritise Pleasure",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 34,
+      "artist": "Fiona Apple",
+      "album": "Fetch the Bolt Cutters",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 38,
+      "artist": "Madonna",
+      "album": "The Immaculate Collection",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 42,
+      "artist": "Young Marble Giants",
+      "album": "Colossal Youth",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 46,
+      "artist": "The Smiths",
+      "album": "Hatful of Hollow",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 50,
+      "artist": "Lou Reed",
+      "album": "Transformer",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 54,
+      "artist": "Brian Wilson",
+      "album": "SMiLE",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 58,
+      "artist": "Leonard Cohen",
+      "album": "I'm Your Man",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 62,
+      "artist": "The Magnetic Fields",
+      "album": "69 Love Songs",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 66,
+      "artist": "Fleetwood Mac",
+      "album": "Tusk",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 70,
+      "artist": "Madonna",
+      "album": "Like a Prayer",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 74,
+      "artist": "The Beatles",
+      "album": "Please Please Me",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 78,
+      "artist": "Wilco",
+      "album": "Summerteeth",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 82,
+      "artist": "Pulp",
+      "album": "Different Class",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 86,
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 90,
+      "artist": "Björk",
+      "album": "Homogenic",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 94,
+      "artist": "Corinne Bailey Rae",
+      "album": "Black Rainbows",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 98,
+      "artist": "The Beatles",
+      "album": "A Hard Day's Night",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 100,
+      "artist": "Joni Mitchell",
+      "album": "The Hissing of Summer Lawns",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 104,
+      "artist": "Perfume Genius",
+      "album": "Set My Heart On Fire Immediately",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 108,
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 112,
+      "artist": "Janet Jackson",
+      "album": "Control",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 116,
+      "artist": "Charli xcx",
+      "album": "BRAT",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 120,
+      "artist": "Pet Shop Boys",
+      "album": "Smash: The Singles 1985-2020",
+      "year": 19,
+      "genre": "pop"
+    },
+    {
+      "rank": 51,
+      "artist": "Serge Gainsbourg",
+      "album": "Histoire de Melody Nelson",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 55,
+      "artist": "Nancy Sinatra",
+      "album": "Start Walkin' 1965–1976",
+      "year": 19,
+      "genre": "pop"
+    },
+    {
+      "rank": 57,
+      "artist": "The Smiths",
+      "album": "The Smiths",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 61,
+      "artist": "Taylor Swift",
+      "album": "Red (Taylor's Version)",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 65,
+      "artist": "Eno",
+      "album": "Taking Tiger Mountain (By Strategy)",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 69,
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell Live",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 73,
+      "artist": "Sinéad O'Connor",
+      "album": "I Do Not Want What I Haven't Got",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 77,
+      "artist": "Traveling Wilburys",
+      "album": "Traveling Wilburys Vol. 1",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 80,
+      "artist": "Bob Dylan",
+      "album": "Oh Mercy",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 84,
+      "artist": "FKA twigs",
+      "album": "MAGDALENE",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 88,
+      "artist": "Nick Cave & Warren Ellis",
+      "album": "CARNAGE",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 92,
+      "artist": "John Lennon",
+      "album": "Imagine",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 96,
+      "artist": "Dua Lipa",
+      "album": "Houdini",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 100,
+      "artist": "Stereolab",
+      "album": "Emperor Tomato Ketchup",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 104,
+      "artist": "The Beatles",
+      "album": "Magical Mystery Tour",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 108,
+      "artist": "Caroline Polachek",
+      "album": "Desire, I Want to Turn Into You",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 112,
+      "artist": "Julia Holter",
+      "album": "Have You in My Wilderness",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 116,
+      "artist": "Laurie Anderson",
+      "album": "Big Science",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 120,
+      "artist": "Elastica",
+      "album": "Elastica",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 124,
+      "artist": "Robyn",
+      "album": "Honey",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 128,
+      "artist": "Creeper",
+      "album": "Sex, Death & the Infinite Void",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 132,
+      "artist": "The Beatles",
+      "album": "With The Beatles",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 136,
+      "artist": "Christine and the Queens",
+      "album": "La vita nuova",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 140,
+      "artist": "Dixie Chicks",
+      "album": "Fly",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 144,
+      "artist": "Bon Iver",
+      "album": "22, A Million",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 76,
+      "artist": "Billy Joel",
+      "album": "The Stranger",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 80,
+      "artist": "Sugababes",
+      "album": "Overloaded: The Singles Collection",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 83,
+      "artist": "Beyoncé",
+      "album": "RENAISSANCE",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 87,
+      "artist": "ROSALÍA",
+      "album": "MOTOMAMI",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 91,
+      "artist": "Prefab Sprout",
+      "album": "Jordan: The Comeback",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 95,
+      "artist": "Grandaddy",
+      "album": "The Sophtware Slump",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 99,
+      "artist": "Radiohead",
+      "album": "A Moon Shaped Pool",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 103,
+      "artist": "Amaarae",
+      "album": "Fountain Baby",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 107,
+      "artist": "Taylor Swift",
+      "album": "folklore",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 111,
+      "artist": "Björk",
+      "album": "Post",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 115,
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 119,
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 123,
+      "artist": "Beyoncé",
+      "album": "HOMECOMING: THE LIVE ALBUM",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 127,
+      "artist": "Lana Del Rey",
+      "album": "Norman Fucking Rockwell!",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 131,
+      "artist": "Susanne Sundfør",
+      "album": "Ten Love Songs",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 135,
+      "artist": "David Sylvian",
+      "album": "A Victim of Stars 1982-2012",
+      "year": 19,
+      "genre": "pop"
+    },
+    {
+      "rank": 137,
+      "artist": "Moses Sumney",
+      "album": "græ",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 141,
+      "artist": "Fiona Apple",
+      "album": "The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 145,
+      "artist": "St. Vincent",
+      "album": "St. Vincent",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 149,
+      "artist": "Mabe Fratti",
+      "album": "Sentir Que No Sabes",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 153,
+      "artist": "Suede",
+      "album": "The Best of Suede",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 157,
+      "artist": "Roxy Music",
+      "album": "Siren",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 161,
+      "artist": "Pet Shop Boys",
+      "album": "Very",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 165,
+      "artist": "Robyn",
+      "album": "Robyn",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 169,
+      "artist": "Japanese Breakfast",
+      "album": "Jubilee",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 101,
+      "artist": "Janelle Monáe",
+      "album": "The ArchAndroid",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 105,
+      "artist": "FKA twigs",
+      "album": "EUSEXUA",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 109,
+      "artist": "Angel Olsen",
+      "album": "All Mirrors",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 113,
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 117,
+      "artist": "Electronic",
+      "album": "Electronic",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 121,
+      "artist": "The Divine Comedy",
+      "album": "Casanova",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 125,
+      "artist": "Beyoncé",
+      "album": "COWBOY CARTER",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 129,
+      "artist": "Magdalena Bay",
+      "album": "Imaginal Disk",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 133,
+      "artist": "The Shins",
+      "album": "Chutes Too Narrow",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 137,
+      "artist": "St. Vincent",
+      "album": "MASSEDUCTION",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 141,
+      "artist": "Supergrass",
+      "album": "I Should Coco",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 145,
+      "artist": "Adele",
+      "album": "Easy On Me",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 149,
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 153,
+      "artist": "Dirty Projectors",
+      "album": "Bitte Orca",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 157,
+      "artist": "Kate Bush",
+      "album": "The Sensual World",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 161,
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 165,
+      "artist": "The Blue Nile",
+      "album": "Hats",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 169,
+      "artist": "Taylor Swift",
+      "album": "1989 (Taylor's Version)",
+      "year": 19,
+      "genre": "pop"
+    },
+    {
+      "rank": 173,
+      "artist": "The Chills",
+      "album": "Spring Board: The Early Unrecorded Songs",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 177,
+      "artist": "Christine and the Queens",
+      "album": "Chris",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 181,
+      "artist": "Super Furry Animals",
+      "album": "Radiator",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 185,
+      "artist": "Kate Bush",
+      "album": "50 Words for Snow",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 189,
+      "artist": "FKA twigs",
+      "album": "LP1",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 193,
+      "artist": "St. Vincent",
+      "album": "Strange Mercy",
+      "year": 0,
+      "genre": "pop"
+    },
+    {
+      "rank": 197,
+      "artist": "Aimee Mann",
+      "album": "Bachelor No. 2 (Or, the Last Remains of the Dodo)",
+      "year": 0,
+      "genre": "pop"
+    }
+  ],
+  "timestamp": "2025-04-29T18:49:04.362Z",
+  "totalAlbums": 125,
+  "pagesScraped": 5
+}

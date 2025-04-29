@@ -1,0 +1,878 @@
+{
+  "genre": "folk",
+  "genreId": "11",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/5-folk/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "Bob Dylan",
+      "album": "Highway 61 Revisited",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 5,
+      "artist": "Leonard Cohen",
+      "album": "Songs of Leonard Cohen",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 9,
+      "artist": "Bob Dylan",
+      "album": "Blood on the Tracks",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 13,
+      "artist": "Grateful Dead",
+      "album": "American Beauty",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 17,
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 21,
+      "artist": "Joni Mitchell",
+      "album": "Court and Spark",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 25,
+      "artist": "Grateful Dead",
+      "album": "Workingman's Dead",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 29,
+      "artist": "Bob Dylan",
+      "album": "The Freewheelin' Bob Dylan",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 33,
+      "artist": "Nick Drake",
+      "album": "Five Leaves Left",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 37,
+      "artist": "Bob Dylan",
+      "album": "The Bootleg Series Vol. 4: Bob Dylan Live 1966, The \"Royal Albert Hall\" Concert",
+      "year": 19,
+      "genre": "folk"
+    },
+    {
+      "rank": 41,
+      "artist": "The Band",
+      "album": "The Band",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 45,
+      "artist": "George Harrison",
+      "album": "All Things Must Pass",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 49,
+      "artist": "Nick Drake",
+      "album": "Pink Moon",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 53,
+      "artist": "Neil Young",
+      "album": "On the Beach",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 57,
+      "artist": "Bob Dylan",
+      "album": "The Bootleg Series Vol. 6: Bob Dylan Live 1964 - Concert at Philharmonic Hall",
+      "year": 19,
+      "genre": "folk"
+    },
+    {
+      "rank": 61,
+      "artist": "David Crosby",
+      "album": "If I Could Only Remember My Name",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 65,
+      "artist": "Anaïs Mitchell",
+      "album": "Hadestown",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 69,
+      "artist": "The Microphones",
+      "album": "Mount Eerie",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 73,
+      "artist": "Neil Young",
+      "album": "After the Gold Rush",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 77,
+      "artist": "Vashti Bunyan",
+      "album": "Just Another Diamond Day",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 81,
+      "artist": "Aaron West & The Roaring Twenties",
+      "album": "In Lieu of Flowers",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 85,
+      "artist": "Sufjan Stevens",
+      "album": "Illinois",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 89,
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 93,
+      "artist": "Lankum",
+      "album": "The Livelong Day",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 97,
+      "artist": "Mount Eerie",
+      "album": "A Crow Looked at Me",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 26,
+      "artist": "Nick Drake",
+      "album": "Bryter Layter",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 30,
+      "artist": "Linda Perhacs",
+      "album": "Parallelograms",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 34,
+      "artist": "Tom Waits",
+      "album": "Orphans: Brawlers, Bawlers & Bastards",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 38,
+      "artist": "Leonard Cohen",
+      "album": "You Want It Darker",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 42,
+      "artist": "Sam Lee & Friends",
+      "album": "The Fade In Time",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 46,
+      "artist": "Joanna Newsom",
+      "album": "Divers",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 49,
+      "artist": "Bob Dylan",
+      "album": "More Blood, More Tracks: The Bootleg Series Vol. 14",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 52,
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell Live",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 56,
+      "artist": "PJ Harvey",
+      "album": "Let England Shake",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 60,
+      "artist": "Sufjan Stevens",
+      "album": "Javelin",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 64,
+      "artist": "Mitski",
+      "album": "The Land Is Inhospitable and So Are We",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 68,
+      "artist": "boygenius",
+      "album": "the record",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 72,
+      "artist": "Ry Cooder",
+      "album": "Pull Up Some Dust and Sit Down",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 76,
+      "artist": "The Pogues",
+      "album": "If I Should Fall From Grace With God",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 80,
+      "artist": "Songs: Ohia",
+      "album": "Didn't It Rain",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 84,
+      "artist": "Augie March",
+      "album": "Strange Bird",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 88,
+      "artist": "Phoebe Bridgers",
+      "album": "Punisher",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 92,
+      "artist": "Laura Marling",
+      "album": "Song For Our Daughter",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 96,
+      "artist": "Arthur Russell",
+      "album": "Picture of Bunny Rabbit",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 100,
+      "artist": "Neutral Milk Hotel",
+      "album": "In the Aeroplane Over the Sea",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 104,
+      "artist": "Fleet Foxes",
+      "album": "Fleet Foxes",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 108,
+      "artist": "Cameron Winter",
+      "album": "Heavy Metal",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 112,
+      "artist": "The Gloaming",
+      "album": "The Gloaming 2",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 116,
+      "artist": "Father John Misty",
+      "album": "I Love You, Honeybear",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 120,
+      "artist": "Nina Nastasia",
+      "album": "Riderless Horse",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 51,
+      "artist": "Jessica Pratt",
+      "album": "Here in the Pitch",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 55,
+      "artist": "Red House Painters",
+      "album": "Ocean Beach",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 59,
+      "artist": "Tracy Chapman",
+      "album": "Tracy Chapman",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 63,
+      "artist": "Taylor Swift",
+      "album": "folklore",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 67,
+      "artist": "Susanne Sundfør",
+      "album": "blómi",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 71,
+      "artist": "Rhiannon Giddens With Francesco Turrisi",
+      "album": "They're Calling Me Home",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 75,
+      "artist": "Mabe Fratti",
+      "album": "Sentir Que No Sabes",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 79,
+      "artist": "Joanna Newsom",
+      "album": "Ys",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 82,
+      "artist": "Adrianne Lenker",
+      "album": "Bright Future",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 86,
+      "artist": "Israel Nash",
+      "album": "Israel Nash's Silver Season",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 89,
+      "artist": "Sparrow & the Workshop",
+      "album": "Crystals Fall",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 93,
+      "artist": "Crosby, Stills, Nash & Young",
+      "album": "Live At Fillmore East, 1969",
+      "year": 19,
+      "genre": "folk"
+    },
+    {
+      "rank": 95,
+      "artist": "Laura Marling",
+      "album": "Patterns in Repeat",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 99,
+      "artist": "Beth Gibbons",
+      "album": "Lives Outgrown",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 103,
+      "artist": "Lingua Ignota",
+      "album": "SINNER GET READY",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 107,
+      "artist": "The Pogues",
+      "album": "Rum Sodomy & the Lash",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 111,
+      "artist": "Elliott Smith",
+      "album": "Elliott Smith",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 115,
+      "artist": "Gillian Welch",
+      "album": "The Harrow & The Harvest",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 119,
+      "artist": "Martin Simpson",
+      "album": "Vagrant Stanzas",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 123,
+      "artist": "Arooj Aftab",
+      "album": "Night Reign",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 127,
+      "artist": "Joni Mitchell",
+      "album": "Ladies of the Canyon",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 131,
+      "artist": "Big Thief",
+      "album": "Dragon New Warm Mountain I Believe In You",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 135,
+      "artist": "Offa Rex",
+      "album": "The Queen of Hearts",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 139,
+      "artist": "Bob Dylan",
+      "album": "The Bootleg Series Vol. 7: No Direction Home: The Soundtrack",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 142,
+      "artist": "Bob Dylan",
+      "album": "Desire",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 76,
+      "artist": "Grizzly Bear",
+      "album": "Veckatimest",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 80,
+      "artist": "Purple Mountains",
+      "album": "Purple Mountains",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 84,
+      "artist": "Mark Lanegan",
+      "album": "Whiskey for the Holy Ghost",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 86,
+      "artist": "The Decemberists",
+      "album": "Castaways and Cutouts",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 90,
+      "artist": "Laura Marling",
+      "album": "Once I Was an Eagle",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 94,
+      "artist": "Lankum",
+      "album": "False Lankum",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 98,
+      "artist": "Richard Dawson",
+      "album": "2020",
+      "year": 20,
+      "genre": "folk"
+    },
+    {
+      "rank": 102,
+      "artist": "MF Tomlinson",
+      "album": "We Are Still Wild Horses",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 106,
+      "artist": "Warren Zevon",
+      "album": "The Wind",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 110,
+      "artist": "Bon Iver",
+      "album": "Bon Iver, Bon Iver",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 114,
+      "artist": "Fleet Foxes",
+      "album": "First Collection: 2006-2009",
+      "year": 20,
+      "genre": "folk"
+    },
+    {
+      "rank": 118,
+      "artist": "Sufjan Stevens",
+      "album": "Michigan",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 122,
+      "artist": "Joanna Newsom",
+      "album": "Have One On Me",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 125,
+      "artist": "Patty Griffin",
+      "album": "American Kid",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 129,
+      "artist": "Iron & Wine",
+      "album": "The Sea & The Rhythm",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 133,
+      "artist": "Sam Lee",
+      "album": "Ground of Its Own",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 137,
+      "artist": "Bon Iver",
+      "album": "For Emma, Forever Ago",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 141,
+      "artist": "Julie Byrne",
+      "album": "The Greater Wings",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 145,
+      "artist": "The Mountain Goats",
+      "album": "All Hail West Texas",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 149,
+      "artist": "The Microphones",
+      "album": "Microphones in 2020",
+      "year": 20,
+      "genre": "folk"
+    },
+    {
+      "rank": 152,
+      "artist": "Fleet Foxes",
+      "album": "Sun Giant",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 156,
+      "artist": "The Tallest Man on Earth",
+      "album": "Shallow Grave",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 160,
+      "artist": "Neil Young",
+      "album": "Roxy: Tonight's the Night Live",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 164,
+      "artist": "Neil Young",
+      "album": "Live at Massey Hall 1971",
+      "year": 19,
+      "genre": "folk"
+    },
+    {
+      "rank": 168,
+      "artist": "Lankum",
+      "album": "Between the Earth and Sky",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 101,
+      "artist": "Lankum",
+      "album": "Between the Earth and Sky",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 105,
+      "artist": "Mount Eerie",
+      "album": "(after)",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 109,
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 113,
+      "artist": "Jake Xerxes Fussell",
+      "album": "What In The Natural World",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 117,
+      "artist": "Rhiannon Giddens",
+      "album": "There Is No Other (with Francesco Turrisi)",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 121,
+      "artist": "Florist",
+      "album": "Florist",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 125,
+      "artist": "Julia Jacklin",
+      "album": "Crushing",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 129,
+      "artist": "The Decemberists",
+      "album": "Her Majesty the Decemberists",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 133,
+      "artist": "The Costello Show (Featuring Elvis Costello)",
+      "album": "King of America",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 137,
+      "artist": "Iron & Wine",
+      "album": "The Shepherd's Dog",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 141,
+      "artist": "Adrianne Lenker",
+      "album": "songs",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 145,
+      "artist": "Bonnie 'Prince' Billy",
+      "album": "Master and Everyone",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 148,
+      "artist": "Various Artists",
+      "album": "The Concert for Bangla Desh",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 152,
+      "artist": "Teddy Thompson",
+      "album": "Separate Ways",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 156,
+      "artist": "Kacy & Clayton",
+      "album": "The Siren's Song",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 163,
+      "artist": "Aldous Harding",
+      "album": "Designer",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 167,
+      "artist": "Mount Eerie",
+      "album": "Wind's Poem",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 171,
+      "artist": "Shirley Collins",
+      "album": "Heart's Ease",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 175,
+      "artist": "Joanna Newsom",
+      "album": "The Milk-Eyed Mender",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 178,
+      "artist": "Damien Jurado",
+      "album": "Where Shall You Take Me?",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 182,
+      "artist": "Richard Dawson",
+      "album": "Peasant",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 186,
+      "artist": "Marianne Faithfull",
+      "album": "Negative Capability",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 190,
+      "artist": "David Thomas Broughton",
+      "album": "The Complete Guide to Insufficiency",
+      "year": 0,
+      "genre": "folk"
+    },
+    {
+      "rank": 194,
+      "artist": "Noah Cyrus",
+      "album": "The Hardest Part",
+      "year": 0,
+      "genre": "folk"
+    }
+  ],
+  "timestamp": "2025-04-29T18:54:27.285Z",
+  "totalAlbums": 124,
+  "pagesScraped": 5
+}

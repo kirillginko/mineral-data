@@ -1,0 +1,885 @@
+{
+  "genre": "ambient-pop",
+  "genreId": "1",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/201-ambient-pop/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "Arthur Russell",
+      "album": "Picture of Bunny Rabbit",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 5,
+      "artist": "David Sylvian",
+      "album": "A Victim of Stars 1982-2012",
+      "year": 19,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 7,
+      "artist": "Kate Bush",
+      "album": "50 Words for Snow",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 11,
+      "artist": "Low",
+      "album": "Double Negative",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 15,
+      "artist": "Julie Byrne",
+      "album": "The Greater Wings",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 19,
+      "artist": "Kathryn Joseph",
+      "album": "for you who are the wronged",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 23,
+      "artist": "Sigur Rós",
+      "album": "Ágætis byrjun",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 27,
+      "artist": "The American Analog Set",
+      "album": "Know By Heart",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 31,
+      "artist": "Beverly Glenn-Copeland",
+      "album": "Transmissions: The Music of Beverly Glenn-Copeland",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 35,
+      "artist": "Keeley Forsyth",
+      "album": "Limbs",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 39,
+      "artist": "Broadcast",
+      "album": "Spell Blanket - Collected Demos - 2006-2009",
+      "year": 20,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 43,
+      "artist": "yeule",
+      "album": "Glitch Princess",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 47,
+      "artist": "Stereolab",
+      "album": "Dots and Loops",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 51,
+      "artist": "Thom Yorke",
+      "album": "ANIMA",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 55,
+      "artist": "Vanishing Twin",
+      "album": "The Age Of Immunology",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 59,
+      "artist": "Dawn Richard & Spencer Zahn",
+      "album": "Pigments",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 63,
+      "artist": "Helado Negro",
+      "album": "Far In",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 67,
+      "artist": "Jenny Hval",
+      "album": "Blood Bitch",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 71,
+      "artist": "Low",
+      "album": "HEY WHAT",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 75,
+      "artist": "Kate Bush",
+      "album": "Aerial",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 79,
+      "artist": "Keeley Forsyth",
+      "album": "Debris",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 83,
+      "artist": "Saint Etienne",
+      "album": "I've Been Trying To Tell You",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 87,
+      "artist": "Deakin",
+      "album": "Sleep Cycle",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 91,
+      "artist": "Saltland",
+      "album": "A Common Truth",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 95,
+      "artist": "Kelly Lee Owens",
+      "album": "Kelly Lee Owens",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 26,
+      "artist": "Julianna Barwick",
+      "album": "The Magic Place",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 30,
+      "artist": "Loma",
+      "album": "Don't Shy Away",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 34,
+      "artist": "Jenny Hval",
+      "album": "Classic Objects",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 38,
+      "artist": "Jane Weaver",
+      "album": "Modern Kosmology",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 42,
+      "artist": "Sigur Rós",
+      "album": "( )",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 46,
+      "artist": "Lambchop",
+      "album": "Showtunes",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 50,
+      "artist": "Mabe Fratti",
+      "album": "Será Que Ahora Podremos Entendernos",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 54,
+      "artist": "John Cale",
+      "album": "Mercy",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 58,
+      "artist": "LUMP",
+      "album": "LUMP",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 62,
+      "artist": "Underworld",
+      "album": "Barbara Barbara, we face a shining future",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 66,
+      "artist": "Anna von Hausswolff",
+      "album": "Ceremony",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 70,
+      "artist": "Hinako Omori",
+      "album": "stillness, softness​.​.​.",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 74,
+      "artist": "Patrick Watson",
+      "album": "Wave",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 78,
+      "artist": "How to Dress Well",
+      "album": "Total Loss",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 82,
+      "artist": "Laurel Halo",
+      "album": "Quarantine",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 86,
+      "artist": "Colleen",
+      "album": "A flame my love, a frequency",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 90,
+      "artist": "The xx",
+      "album": "Coexist",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 94,
+      "artist": "Sigur Rós",
+      "album": "Með suð í eyrum við spilum endalaust",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 98,
+      "artist": "Gazelle Twin",
+      "album": "The Entire City",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 102,
+      "artist": "Slowdive",
+      "album": "Pygmalion",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 106,
+      "artist": "Damon Albarn",
+      "album": "The Nearer the Fountain, More Pure the Stream Flows",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 110,
+      "artist": "Nite Jewel",
+      "album": "No Sun",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 114,
+      "artist": "Majical Cloudz",
+      "album": "Are You Alone?",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 118,
+      "artist": "Arca",
+      "album": "kick iiii",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 122,
+      "artist": "Amen Dunes",
+      "album": "Death Jokes",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 51,
+      "artist": "Lætitia Sadier",
+      "album": "Rooting for Love",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 55,
+      "artist": "bdrmm",
+      "album": "I Don't Know",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 59,
+      "artist": "The Beta Band",
+      "album": "Hot Shots II",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 63,
+      "artist": "Sam Morton",
+      "album": "Daffodils & Dirt",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 67,
+      "artist": "Air",
+      "album": "Moon Safari",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 71,
+      "artist": "Brian Eno",
+      "album": "FOREVERANDEVERNOMORE",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 75,
+      "artist": "Maria Somerville",
+      "album": "Luster",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 79,
+      "artist": "How to Dress Well",
+      "album": "Love Remains",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 83,
+      "artist": "Air",
+      "album": "Talkie Walkie",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 87,
+      "artist": "Lapalux",
+      "album": "Ruinism",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 91,
+      "artist": "Low",
+      "album": "Drums and Guns",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 95,
+      "artist": "Vanishing Twin",
+      "album": "Afternoon X",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 99,
+      "artist": "Nicolás Jaar",
+      "album": "Sirens",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 103,
+      "artist": "JFDR",
+      "album": "Museum",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 107,
+      "artist": "Natalie Bergman",
+      "album": "Mercy",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 111,
+      "artist": "Yann Tiersen",
+      "album": "All",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 115,
+      "artist": "Panda Bear",
+      "album": "Tomboy",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 119,
+      "artist": "Efterklang",
+      "album": "Windflowers",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 123,
+      "artist": "Brian Eno",
+      "album": "Another Day on Earth",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 125,
+      "artist": "Julianna Barwick",
+      "album": "Healing Is a Miracle",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 129,
+      "artist": "Julianna Barwick",
+      "album": "Will",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 133,
+      "artist": "Devon Welsh",
+      "album": "Dream Songs",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 137,
+      "artist": "Teen Daze",
+      "album": "Themes for Dying Earth",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 141,
+      "artist": "Vanishing Twin",
+      "album": "Ookii Gekkou",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 145,
+      "artist": "Juana Molina",
+      "album": "Un Dia",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 76,
+      "artist": "Thom Yorke",
+      "album": "The Eraser",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 80,
+      "artist": "Frank Ocean",
+      "album": "Endless",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 82,
+      "artist": "Midwife",
+      "album": "Luminol",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 86,
+      "artist": "Cigarettes After Sex",
+      "album": "Cigarettes After Sex",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 90,
+      "artist": "Låpsley",
+      "album": "Long Way Home",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 94,
+      "artist": "Agnes Obel",
+      "album": "Myopia",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 98,
+      "artist": "Yo La Tengo",
+      "album": "There's a Riot Going On",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 102,
+      "artist": "Primal Scream",
+      "album": "More Light",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 106,
+      "artist": "Majical Cloudz",
+      "album": "Impersonator",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 110,
+      "artist": "Sigur Rós",
+      "album": "Valtari",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 114,
+      "artist": "Jerkcurb",
+      "album": "Air Con Eden",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 118,
+      "artist": "Colleen",
+      "album": "The Weighing of the Heart",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 122,
+      "artist": "The Sea and Cake",
+      "album": "Oui",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 126,
+      "artist": "MJ Guider",
+      "album": "Precious Systems",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 130,
+      "artist": "Klein",
+      "album": "Tommy",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 134,
+      "artist": "Let's Eat Grandma",
+      "album": "I, Gemini",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 138,
+      "artist": "Air",
+      "album": "The Virgin Suicides",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 142,
+      "artist": "Mirrorring",
+      "album": "Foreign Body",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 146,
+      "artist": "Sufjan Stevens, Bryce Dessner, Nico Muhly & James McAlister",
+      "album": "Planetarium",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 150,
+      "artist": "Cornelius",
+      "album": "Mellow Waves",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 154,
+      "artist": "A.A.Williams",
+      "album": "Songs From Isolation",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 158,
+      "artist": "Penelope Trappes",
+      "album": "Penelope Two",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 162,
+      "artist": "d'Eon",
+      "album": "LP",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 166,
+      "artist": "Lucinda Chua",
+      "album": "YIAN",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 170,
+      "artist": "Penelope Trappes",
+      "album": "Penelope Three",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 101,
+      "artist": "Kid Koala",
+      "album": "Music To Draw To: Satellite",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 105,
+      "artist": "Laika",
+      "album": "Good Looking Blues",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 107,
+      "artist": "Susanna",
+      "album": "Triangle",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 111,
+      "artist": "Colleen",
+      "album": "The Tunnel and the Clearing",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 113,
+      "artist": "Junior Boys",
+      "album": "Waiting Game",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 117,
+      "artist": "Okay Kaya",
+      "album": "SAP",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 121,
+      "artist": "Lykke Li",
+      "album": "EYEYE",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 125,
+      "artist": "Valet",
+      "album": "Naked Acid",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 129,
+      "artist": "Goldfrapp",
+      "album": "Felt Mountain",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 133,
+      "artist": "Blue Hawaii",
+      "album": "Untogether",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 137,
+      "artist": "Yo La Tengo",
+      "album": "Summer Sun",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 141,
+      "artist": "Hilary Woods",
+      "album": "Birthmarks",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 145,
+      "artist": "Eluvium",
+      "album": "Similes",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 149,
+      "artist": "Chrystabell",
+      "album": "Cellophane Memories",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 153,
+      "artist": "Nosaj Thing",
+      "album": "Parallels",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 157,
+      "artist": "Apparat",
+      "album": "LP5",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 161,
+      "artist": "Gang Gang Dance",
+      "album": "Kazuashita",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 165,
+      "artist": "Benoît Pioulard",
+      "album": "Hymnal",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 169,
+      "artist": "Lo Moon",
+      "album": "Lo Moon",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 173,
+      "artist": "Broadcast",
+      "album": "Tender Buttons",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 177,
+      "artist": "Gwilym Gold",
+      "album": "A Paradise",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 181,
+      "artist": "iamamiwhoami",
+      "album": "BLUE",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 185,
+      "artist": "Hilary Woods",
+      "album": "Colt",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 189,
+      "artist": "Susanna and the Magical Orchestra",
+      "album": "3",
+      "year": 0,
+      "genre": "ambient-pop"
+    },
+    {
+      "rank": 193,
+      "artist": "Devendra Banhart",
+      "album": "Flying Wig",
+      "year": 0,
+      "genre": "ambient-pop"
+    }
+  ],
+  "timestamp": "2025-04-29T18:50:07.288Z",
+  "totalAlbums": 125,
+  "pagesScraped": 5
+}

@@ -1,0 +1,885 @@
+{
+  "genre": "hip-hop",
+  "genreId": "2",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/3-hip-hop/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "Public Enemy",
+      "album": "It Takes a Nation of Millions to Hold Us Back",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 5,
+      "artist": "Wu-Tang Clan",
+      "album": "Enter the Wu-Tang (36 Chambers)",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 9,
+      "artist": "Dr. Dre",
+      "album": "The Chronic",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 13,
+      "artist": "Public Enemy",
+      "album": "Apocalypse 91... The Enemy Strikes Black",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 17,
+      "artist": "JAY-Z",
+      "album": "Reasonable Doubt",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 21,
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp a Butterfly",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 25,
+      "artist": "De La Soul",
+      "album": "3 Feet High and Rising",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 29,
+      "artist": "Nas",
+      "album": "Illmatic",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 33,
+      "artist": "Beastie Boys",
+      "album": "Paul's Boutique",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 37,
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 41,
+      "artist": "OutKast",
+      "album": "Stankonia",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 45,
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 49,
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 53,
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 57,
+      "artist": "Viktor Vaughn",
+      "album": "Vaudeville Villain",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 61,
+      "artist": "Mobb Deep",
+      "album": "The Infamous",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 65,
+      "artist": "OutKast",
+      "album": "Aquemini",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 69,
+      "artist": "Public Enemy",
+      "album": "Fear of a Black Planet",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 73,
+      "artist": "Little Simz",
+      "album": "Sometimes I Might Be Introvert",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 77,
+      "artist": "El-P",
+      "album": "Fantastic Damage",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 81,
+      "artist": "Kendrick Lamar",
+      "album": "good kid, m.A.A.d city",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 85,
+      "artist": "Lauryn Hill",
+      "album": "The Miseducation of Lauryn Hill",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 89,
+      "artist": "Run the Jewels",
+      "album": "RTJ4",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 93,
+      "artist": "Raekwon",
+      "album": "Only Built 4 Cuban Linx...",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 97,
+      "artist": "Ice Cube",
+      "album": "Death Certificate",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 26,
+      "artist": "Dizzee Rascal",
+      "album": "Boy in da Corner",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 30,
+      "artist": "Madvillain",
+      "album": "Madvillainy",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 34,
+      "artist": "McKinley Dixon",
+      "album": "For My Mama and Anyone Who Look Like Her",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 38,
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 42,
+      "artist": "The Notorious B.I.G.",
+      "album": "Ready to Die",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 46,
+      "artist": "Brother Ali",
+      "album": "Shadows on the Sun",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 50,
+      "artist": "Little Simz",
+      "album": "GREY Area",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 54,
+      "artist": "Kendrick Lamar",
+      "album": "Mr. Morale & The Big Steppers",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 58,
+      "artist": "Dave",
+      "album": "We're All Alone In This Together",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 62,
+      "artist": "The Streets",
+      "album": "A Grand Don't Come For Free",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 66,
+      "artist": "Danger Mouse",
+      "album": "The Grey Album",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 68,
+      "artist": "Prince Paul",
+      "album": "A Prince Among Thieves",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 71,
+      "artist": "Little Simz",
+      "album": "NO THANK YOU",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 75,
+      "artist": "A Tribe Called Quest",
+      "album": "We got it from Here... Thank You 4 Your service",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 79,
+      "artist": "Kendrick Lamar",
+      "album": "GNX",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 83,
+      "artist": "Backxwash",
+      "album": "Only Dust Remains",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 87,
+      "artist": "Mos Def",
+      "album": "Black on Both Sides",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 91,
+      "artist": "Vince Staples",
+      "album": "Big Fish Theory",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 95,
+      "artist": "Run the Jewels",
+      "album": "Run the Jewels 2",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 99,
+      "artist": "De La Soul",
+      "album": "Buhloone Mindstate",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 103,
+      "artist": "The Streets",
+      "album": "Original Pirate Material",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 107,
+      "artist": "billy woods & Kenny Segal",
+      "album": "Maps",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 111,
+      "artist": "Cannibal Ox",
+      "album": "The Cold Vein",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 115,
+      "artist": "Fugees",
+      "album": "The Score",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 119,
+      "artist": "Chance the Rapper",
+      "album": "Coloring Book",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 51,
+      "artist": "Raekwon",
+      "album": "Only Built 4 Cuban Linx... Pt. II",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 55,
+      "artist": "Pharoahe Monch",
+      "album": "Desire",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 59,
+      "artist": "Noname",
+      "album": "Room 25",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 63,
+      "artist": "Armand Hammer",
+      "album": "We Buy Diabetic Test Strips",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 67,
+      "artist": "M.I.A.",
+      "album": "Arular",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 71,
+      "artist": "The Pharcyde",
+      "album": "Bizarre Ride II the Pharcyde",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 75,
+      "artist": "Tyler, The Creator",
+      "album": "CALL ME IF YOU GET LOST",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 79,
+      "artist": "Run the Jewels",
+      "album": "Run the Jewels 3",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 83,
+      "artist": "Ghetts",
+      "album": "Conflict Of Interest",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 87,
+      "artist": "Kano",
+      "album": "Hoodies All Summer",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 91,
+      "artist": "JPEGMAFIA & Danny Brown",
+      "album": "SCARING THE HOES",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 95,
+      "artist": "Missy \"Misdemeanor\" Elliott",
+      "album": "Supa Dupa Fly",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 99,
+      "artist": "OutKast",
+      "album": "Speakerboxxx/The Love Below",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 103,
+      "artist": "Bob Vylan",
+      "album": "Bob Vylan Presents The Price Of Life",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 107,
+      "artist": "Antony Szmierek",
+      "album": "Service Station At The End Of The Universe",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 111,
+      "artist": "Company Flow",
+      "album": "Funcrusher Plus",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 115,
+      "artist": "Conway the Machine",
+      "album": "God Don't Make Mistakes",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 119,
+      "artist": "Clipse",
+      "album": "Hell Hath No Fury",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 123,
+      "artist": "Genius / GZA",
+      "album": "Liquid Swords",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 127,
+      "artist": "Jadakiss",
+      "album": "Ignatius",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 131,
+      "artist": "Freddie Gibbs & The Alchemist",
+      "album": "Alfredo",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 135,
+      "artist": "JAY-Z",
+      "album": "The Blueprint",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 139,
+      "artist": "Big Pun",
+      "album": "Capital Punishment",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 143,
+      "artist": "Black Star",
+      "album": "Mos Def & Talib Kweli Are Black Star",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 147,
+      "artist": "M.I.A.",
+      "album": "Kala",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 76,
+      "artist": "The Avalanches",
+      "album": "Since I Left You",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 80,
+      "artist": "JPEGMAFIA",
+      "album": "All My Heroes Are Cornballs",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 84,
+      "artist": "Pusha T",
+      "album": "DAYTONA",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 88,
+      "artist": "Masta Killa",
+      "album": "No Said Date",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 90,
+      "artist": "Cadence Weapon",
+      "album": "Breaking Kayfabe",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 94,
+      "artist": "Rapsody",
+      "album": "Laila's Wisdom",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 98,
+      "artist": "Saba",
+      "album": "CARE FOR ME",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 102,
+      "artist": "Rapsody",
+      "album": "Eve",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 106,
+      "artist": "Edan",
+      "album": "Beauty and the Beat",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 110,
+      "artist": "Genesis Owusu",
+      "album": "Smiling With No Teeth",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 114,
+      "artist": "Vince Staples",
+      "album": "Summertime '06",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 118,
+      "artist": "Digable Planets",
+      "album": "Reachin' (A New Refutation of Time and Space)",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 122,
+      "artist": "Shabazz Palaces",
+      "album": "Black Up",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 126,
+      "artist": "Denzel Curry",
+      "album": "Melt My Eyez See Your Future",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 130,
+      "artist": "Danny Brown",
+      "album": "Old",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 134,
+      "artist": "J Dilla",
+      "album": "Donuts",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 138,
+      "artist": "The Roots",
+      "album": "Things Fall Apart",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 142,
+      "artist": "KIDS SEE GHOSTS",
+      "album": "KIDS SEE GHOSTS",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 146,
+      "artist": "Bob Vylan",
+      "album": "Humble As The Sun",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 150,
+      "artist": "Danny Brown",
+      "album": "XXX",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 154,
+      "artist": "Freddie Gibbs & Madlib",
+      "album": "Bandana",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 158,
+      "artist": "Lupe Fiasco",
+      "album": "Lupe Fiasco's Food & Liquor",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 162,
+      "artist": "Kae Tempest",
+      "album": "Let Them Eat Chaos",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 166,
+      "artist": "Black Thought & Danger Mouse",
+      "album": "Cheat Codes",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 170,
+      "artist": "Kendrick Lamar",
+      "album": "untitled unmastered.",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 101,
+      "artist": "Run the Jewels",
+      "album": "Run the Jewels",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 105,
+      "artist": "Maxo Kream",
+      "album": "Brandon Banks",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 109,
+      "artist": "Royce da 5'9''",
+      "album": "Book of Ryan",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 113,
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 117,
+      "artist": "RJD2",
+      "album": "Deadringer",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 121,
+      "artist": "Death Grips",
+      "album": "The Money Store",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 125,
+      "artist": "Buddy",
+      "album": "Harlan & Alondra",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 129,
+      "artist": "Das Racist",
+      "album": "Sit Down, Man",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 133,
+      "artist": "Kanye West",
+      "album": "Late Registration",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 137,
+      "artist": "Prefuse 73",
+      "album": "One Word Extinguisher",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 141,
+      "artist": "Angel Haze",
+      "album": "Reservation",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 143,
+      "artist": "Killer Mike",
+      "album": "R.A.P. Music",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 147,
+      "artist": "J Hus",
+      "album": "Big Conspiracy",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 151,
+      "artist": "Wu-Tang Clan",
+      "album": "Wu-Tang Forever",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 155,
+      "artist": "Ray BLK",
+      "album": "Access Denied",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 159,
+      "artist": "Loyle Carner",
+      "album": "hugo",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 163,
+      "artist": "Ghostface Killah",
+      "album": "Ironman",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 167,
+      "artist": "Kanye West",
+      "album": "Yeezus",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 171,
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 175,
+      "artist": "Little Brother",
+      "album": "May The Lord Watch",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 179,
+      "artist": "Brother Ali",
+      "album": "The Truth Is Here",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 183,
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 187,
+      "artist": "J-Live",
+      "album": "All of the Above",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 191,
+      "artist": "The Roots",
+      "album": "Phrenology",
+      "year": 0,
+      "genre": "hip-hop"
+    },
+    {
+      "rank": 195,
+      "artist": "Greentea Peng",
+      "album": "TELL DEM IT'S SUNNY",
+      "year": 0,
+      "genre": "hip-hop"
+    }
+  ],
+  "timestamp": "2025-04-29T18:51:11.555Z",
+  "totalAlbums": 125,
+  "pagesScraped": 5
+}

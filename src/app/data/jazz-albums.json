@@ -1,0 +1,885 @@
+{
+  "genre": "jazz",
+  "genreId": "6",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/35-jazz/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "Miles Davis",
+      "album": "Kind of Blue",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 5,
+      "artist": "Miles Davis",
+      "album": "Sketches of Spain",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 9,
+      "artist": "Anaïs Mitchell",
+      "album": "Hadestown",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 13,
+      "artist": "Charles Lloyd",
+      "album": "The Sky Will Still Be There Tomorrow",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 17,
+      "artist": "Cécile McLorin Salvant",
+      "album": "Dreams and Daggers",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 21,
+      "artist": "jaimie branch",
+      "album": "Fly or Die Fly or Die Fly or Die ((world war))",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 25,
+      "artist": "Corinne Bailey Rae",
+      "album": "Black Rainbows",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 29,
+      "artist": "Buena Vista Social Club",
+      "album": "At Carnegie Hall",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 33,
+      "artist": "Matana Roberts",
+      "album": "Coin Coin Chapter Two: Mississippi Moonchile",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 37,
+      "artist": "Miles Davis",
+      "album": "Live-Evil",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 41,
+      "artist": "Julian Lage",
+      "album": "Speak To Me",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 45,
+      "artist": "John Coltrane",
+      "album": "A Love Supreme: Live in Seattle",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 49,
+      "artist": "Wayne Shorter Quartet",
+      "album": "Without a Net",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 51,
+      "artist": "Floating Points, Pharoah Sanders & The London Symphony Orchestra",
+      "album": "Promises",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 55,
+      "artist": "Matana Roberts",
+      "album": "COIN COIN Chapter Four: Memphis",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 59,
+      "artist": "Cécile McLorin Salvant",
+      "album": "Mélusine",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 63,
+      "artist": "Sons of Kemet",
+      "album": "Black To The Future",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 67,
+      "artist": "Jason Moran",
+      "album": "All Rise: A Joyful Elegy for Fats Waller",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 71,
+      "artist": "Kamasi Washington",
+      "album": "The Epic",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 75,
+      "artist": "John Coltrane",
+      "album": "Both Directions at Once: The Lost Album",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 79,
+      "artist": "Yazz Ahmed",
+      "album": "A Paradise In The Hold",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 83,
+      "artist": "Maria Schneider Orchestra",
+      "album": "Data Lords",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 85,
+      "artist": "John Coltrane",
+      "album": "Offering: Live at Temple University",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 89,
+      "artist": "Arooj Aftab",
+      "album": "Night Reign",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 93,
+      "artist": "Nala Sinephro",
+      "album": "Space 1.8",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 26,
+      "artist": "John Coltrane With Eric Dolphy",
+      "album": "Evenings at the Village Gate",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 30,
+      "artist": "Binker and Moses",
+      "album": "Feeding the Machine",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 34,
+      "artist": "Alice Coltrane",
+      "album": "The Carnegie Hall Concert",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 38,
+      "artist": "Flying Lotus",
+      "album": "You're Dead!",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 42,
+      "artist": "Mark Hollis",
+      "album": "Mark Hollis",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 46,
+      "artist": "Pharoah Sanders",
+      "album": "Black Unity",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 50,
+      "artist": "Sarathy Korwar",
+      "album": "KALAK",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 54,
+      "artist": "Zara McFarlane",
+      "album": "Sweet Whispers: Celebrating Sarah Vaughan",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 58,
+      "artist": "Nala Sinephro",
+      "album": "Endlessness",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 62,
+      "artist": "Esperanza Spalding",
+      "album": "Emily's D+Evolution",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 66,
+      "artist": "Kamasi Washington",
+      "album": "Heaven and Earth",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 70,
+      "artist": "Vijay Iyer, Linda May Han Oh & Tyshawn Sorey",
+      "album": "Compassion",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 74,
+      "artist": "Amaro Freitas",
+      "album": "Y'Y",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 78,
+      "artist": "Ezra Collective",
+      "album": "Dance, No One's Watching",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 82,
+      "artist": "Allen Toussaint",
+      "album": "The Bright Mississippi",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 86,
+      "artist": "Alice Coltrane",
+      "album": "Ptah, The El Daoud",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 90,
+      "artist": "Matana Roberts",
+      "album": "Coin Coin Chapter One: Gens De Couleur Libre",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 94,
+      "artist": "Gil Scott-Heron & Makaya McCraven",
+      "album": "We're New Again - A Reimagining by Makaya McCraven",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 98,
+      "artist": "Natural Information Society",
+      "album": "Since Time Is Gravity",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 102,
+      "artist": "Dawn Richard & Spencer Zahn",
+      "album": "Pigments",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 106,
+      "artist": "Emma-Jean Thackray",
+      "album": "Weirdo",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 110,
+      "artist": "Tom Waits",
+      "album": "Alice",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 114,
+      "artist": "Vijay Iyer, Linda May Han Oh & Tyshawn Sorey",
+      "album": "Uneasy",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 118,
+      "artist": "Shabaka and the Ancestors",
+      "album": "We Are Sent Here By History",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 122,
+      "artist": "Emma-Jean Thackray",
+      "album": "Yellow",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 51,
+      "artist": "Jeff Parker",
+      "album": "Forfolks",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 55,
+      "artist": "Makaya McCraven",
+      "album": "In These Times",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 59,
+      "artist": "Nubya Garcia",
+      "album": "ODYSSEY",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 63,
+      "artist": "Vijay Iyer Trio",
+      "album": "Accelerando",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 67,
+      "artist": "Jeff Parker",
+      "album": "The Way Out of Easy",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 71,
+      "artist": "Revelators Sound System",
+      "album": "Revelators",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 75,
+      "artist": "Rich Ruth",
+      "album": "Water Still Flows",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 79,
+      "artist": "Jyoti",
+      "album": "Mama, You Can Bet!",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 83,
+      "artist": "Matthew Shipp",
+      "album": "Equilibrium",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 87,
+      "artist": "Zara McFarlane",
+      "album": "Arise",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 91,
+      "artist": "Kamasi Washington",
+      "album": "Fearless Movement",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 95,
+      "artist": "Vijay Iyer Trio",
+      "album": "Historicity",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 99,
+      "artist": "Fabiano do Nascimento & Sam Gendel",
+      "album": "The Room",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 103,
+      "artist": "Meshell Ndegeocello",
+      "album": "The Omnichord Real Book",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 107,
+      "artist": "Madeleine Peyroux",
+      "album": "Let's Walk",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 111,
+      "artist": "Vijay Iyer Sextet",
+      "album": "Far From Over",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 114,
+      "artist": "The Necks",
+      "album": "Bleed",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 118,
+      "artist": "Marshall Allen",
+      "album": "New Dawn",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 122,
+      "artist": "Arooj Aftab, Vijay Iyer & Shahzad Ismaily",
+      "album": "Love In Exile",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 126,
+      "artist": "Mary Halvorson",
+      "album": "Cloudward",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 130,
+      "artist": "SML",
+      "album": "Small Medium Large",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 134,
+      "artist": "Ezra Collective",
+      "album": "You Can't Steal My Joy",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 138,
+      "artist": "Ben LaMar Gay",
+      "album": "Open Arms to Open Us",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 140,
+      "artist": "Joe Lovano | Us Five",
+      "album": "Bird Songs",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 144,
+      "artist": "Wyatt, Atzmon, Stephen",
+      "album": "For The Ghosts Within",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 76,
+      "artist": "Alabaster DePlume",
+      "album": "GOLD – Go Forward in the Courage of Your Love",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 80,
+      "artist": "Bob Dylan",
+      "album": "Shadows in the Night",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 84,
+      "artist": "The Comet Is Coming",
+      "album": "Trust in the Lifeforce of the Deep Mystery",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 88,
+      "artist": "Hieroglyphic Being & J.I.T.U. Ahn-Sahm-Buhl",
+      "album": "We Are Not The First",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 91,
+      "artist": "Sons of Kemet",
+      "album": "Your Queen is a Reptile",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 95,
+      "artist": "Nels Cline",
+      "album": "Lovers",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 99,
+      "artist": "The Necks",
+      "album": "Body",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 103,
+      "artist": "Kenny Wheeler",
+      "album": "Songs for Quintet",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 106,
+      "artist": "Robert Glasper",
+      "album": "Double Booked",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 110,
+      "artist": "Angelo Badalamenti",
+      "album": "Soundtrack from Twin Peaks",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 114,
+      "artist": "Matana Roberts",
+      "album": "Coin Coin Chapter Five: In the garden​.​.​.",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 118,
+      "artist": "Joshua Redman & The Bad Plus",
+      "album": "Joshua Redman & The Bad Plus",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 122,
+      "artist": "Cassandra Wilson",
+      "album": "Coming Forth By Day",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 126,
+      "artist": "Gregory Porter",
+      "album": "All Rise",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 130,
+      "artist": "Sun Ra",
+      "album": "To Those of Earth...And Other Worlds",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 134,
+      "artist": "Jim O'Rourke",
+      "album": "Hands That Bind (Original Motion Picture Soundtrack)",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 137,
+      "artist": "Sons of Kemet",
+      "album": "Burn",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 141,
+      "artist": "London Brew",
+      "album": "London Brew",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 145,
+      "artist": "Tony Allen",
+      "album": "The Source",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 149,
+      "artist": "Nubya Garcia",
+      "album": "Source",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 153,
+      "artist": "Irreversible Entanglements",
+      "album": "Who Sent You?",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 157,
+      "artist": "Lonnie Holley",
+      "album": "MITH",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 161,
+      "artist": "Norah Jones",
+      "album": "Come Away With Me",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 165,
+      "artist": "Moses Boyd",
+      "album": "Dark Matter",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 169,
+      "artist": "Mulatu Astatke & The Heliocentrics",
+      "album": "Inspiration Information, Vol. 3",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 101,
+      "artist": "Sun Ra Arkestra",
+      "album": "Living Sky",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 104,
+      "artist": "The Comet Is Coming",
+      "album": "The Afterlife",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 108,
+      "artist": "Thundercat",
+      "album": "Drunk",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 112,
+      "artist": "Alabaster DePlume",
+      "album": "Come With Fierce Grace",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 116,
+      "artist": "John Coltrane",
+      "album": "Blue World",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 120,
+      "artist": "Aaron Parks",
+      "album": "Invisible Cinema",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 124,
+      "artist": "Kamasi Washington",
+      "album": "Harmony of Difference",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 128,
+      "artist": "Wilma Archer",
+      "album": "A Western Circular",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 132,
+      "artist": "Ezra Collective",
+      "album": "Where I'm Meant To Be",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 136,
+      "artist": "Keleketla! & Coldcut",
+      "album": "Keleketla!",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 140,
+      "artist": "Kneebody & Daedelus",
+      "album": "Kneedelus",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 143,
+      "artist": "Brad Mehldau",
+      "album": "Finding Gabriel",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 147,
+      "artist": "Shabaka",
+      "album": "Perceive Its Beauty, Acknowledge Its Grace",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 151,
+      "artist": "ሙላቱ አስታጥቄ [Mulatu Astatke]",
+      "album": "Mulatu Steps Ahead",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 155,
+      "artist": "Bell Orchestre",
+      "album": "House Music",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 159,
+      "artist": "Alabaster DePlume",
+      "album": "A Blade Because A Blade Is Whole",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 163,
+      "artist": "Polar Bear",
+      "album": "Peepers",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 167,
+      "artist": "Alfa Mist",
+      "album": "Variables",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 171,
+      "artist": "Nels Cline",
+      "album": "Consentrik Quartet",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 175,
+      "artist": "Hiatus Kaiyote",
+      "album": "Choose Your Weapon",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 179,
+      "artist": "The Nels Cline Singers",
+      "album": "Initiate",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 183,
+      "artist": "Charles Stepney",
+      "album": "Step on Step",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 187,
+      "artist": "Snarky Puppy",
+      "album": "Culcha Vulcha",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 191,
+      "artist": "Sissoko, Segal, Parisien, Peirani",
+      "album": "Les Égarés",
+      "year": 0,
+      "genre": "jazz"
+    },
+    {
+      "rank": 195,
+      "artist": "The Necks",
+      "album": "Three",
+      "year": 0,
+      "genre": "jazz"
+    }
+  ],
+  "timestamp": "2025-04-29T18:48:00.558Z",
+  "totalAlbums": 125,
+  "pagesScraped": 5
+}

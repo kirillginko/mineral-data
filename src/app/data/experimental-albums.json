@@ -1,0 +1,885 @@
+{
+  "genre": "experimental",
+  "genreId": "5",
+  "sourceUrl": "https://www.albumoftheyear.org/genre/9-experimental/all/",
+  "albums": [
+    {
+      "rank": 1,
+      "artist": "This Heat",
+      "album": "This Heat",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 5,
+      "artist": "Boards of Canada",
+      "album": "Music Has the Right to Children",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 9,
+      "artist": "Sunn O)))",
+      "album": "Black One",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 13,
+      "artist": "Laurie Anderson",
+      "album": "Big Science",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 17,
+      "artist": "Supersilent",
+      "album": "6",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 21,
+      "artist": "Autechre",
+      "album": "NTS Sessions 1-4",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 23,
+      "artist": "Stars of the Lid",
+      "album": "And Their Refinement of the Decline",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 27,
+      "artist": "Shackleton",
+      "album": "Music For the Quiet Hour / The Drawbar Organ EPs",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 31,
+      "artist": "Gazelle Twin & NYX",
+      "album": "Deep England",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 35,
+      "artist": "Mica Levi",
+      "album": "Under the Skin",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 39,
+      "artist": "Gnod",
+      "album": "Mirror",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 43,
+      "artist": "Sunn O)))",
+      "album": "Monoliths and Dimensions",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 47,
+      "artist": "The Books",
+      "album": "The Lemon of Pink",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 51,
+      "artist": "Oneohtrix Point Never",
+      "album": "Rifts",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 55,
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 59,
+      "artist": "Mount Eerie",
+      "album": "Wind's Poem",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 63,
+      "artist": "The Haxan Cloak",
+      "album": "Excavation",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 67,
+      "artist": "Tim Hecker",
+      "album": "Ravedeath, 1972",
+      "year": 19,
+      "genre": "experimental"
+    },
+    {
+      "rank": 71,
+      "artist": "Laurel Halo",
+      "album": "Dust",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 75,
+      "artist": "Jeff Parker",
+      "album": "Forfolks",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 79,
+      "artist": "Burial",
+      "album": "Antidawn",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 83,
+      "artist": "Joni Void",
+      "album": "Mise En Abyme",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 87,
+      "artist": "Ian William Craig",
+      "album": "Centres",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 91,
+      "artist": "Avey Tare and Panda Bear",
+      "album": "Spirit They're Gone, Spirit They've Vanished",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 95,
+      "artist": "Sarah Davachi",
+      "album": "Two Sisters",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 26,
+      "artist": "Einstürzende Neubauten",
+      "album": "Lament",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 30,
+      "artist": "Jefre Cantu-Ledesma",
+      "album": "A Year With 13 Moons",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 34,
+      "artist": "William Basinski",
+      "album": "A Shadow in Time",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 38,
+      "artist": "Scott Walker",
+      "album": "The Drift",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 42,
+      "artist": "Scott Walker",
+      "album": "Tilt",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 46,
+      "artist": "Godspeed You! Black Emperor",
+      "album": "'Asunder, Sweet and Other Distress'",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 50,
+      "artist": "Pharmakon",
+      "album": "Devour",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 54,
+      "artist": "Kali Malone",
+      "album": "The Sacrificial Code",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 58,
+      "artist": "Moor Mother",
+      "album": "The Great Bailout",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 62,
+      "artist": "Injury Reserve",
+      "album": "By the Time I Get to Phoenix",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 66,
+      "artist": "The Caretaker",
+      "album": "An empty bliss beyond this World",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 70,
+      "artist": "Oren Ambarchi / Keiji Haino / Jim O'Rourke",
+      "album": "いみくずし (Imikuzushi)",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 73,
+      "artist": "William Basinski",
+      "album": "Lamentations",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 77,
+      "artist": "Ian William Craig",
+      "album": "Red Sun Through Smoke",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 81,
+      "artist": "XAM Duo",
+      "album": "XAM Duo",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 85,
+      "artist": "Container",
+      "album": "Adhesive",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 89,
+      "artist": "Matana Roberts",
+      "album": "Coin Coin Chapter Five: In the garden​.​.​.",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 93,
+      "artist": "The Kniφe",
+      "album": "Shaking the Habitual",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 97,
+      "artist": "Holly Herndon",
+      "album": "PROTO",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 101,
+      "artist": "Yellow Swans",
+      "album": "Going Places",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 105,
+      "artist": "Lonnie Holley",
+      "album": "MITH",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 109,
+      "artist": "Dustin Wong",
+      "album": "Mediation of Ecstatic Energy",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 113,
+      "artist": "Loscil",
+      "album": "Clara",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 117,
+      "artist": "Prurient",
+      "album": "Frozen Niagara Falls",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 121,
+      "artist": "Björk",
+      "album": "Medúlla",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 51,
+      "artist": "Colin Stetson",
+      "album": "New History Warfare Vol. 3: To See More Light",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 55,
+      "artist": "Tanya Tagaq",
+      "album": "Tongues",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 59,
+      "artist": "The Caretaker",
+      "album": "Patience (After Sebald)",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 62,
+      "artist": "Earth",
+      "album": "Angels of Darkness, Demons of Light I",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 66,
+      "artist": "Black Dice",
+      "album": "Beaches and Canyons",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 70,
+      "artist": "Lawrence English",
+      "album": "Wilderness of Mirrors",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 74,
+      "artist": "Storm & Stress",
+      "album": "Under Thunder and Fluorescent Lights",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 78,
+      "artist": "Jenny Hval",
+      "album": "Apocalypse, girl",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 82,
+      "artist": "Sarah Davachi",
+      "album": "Let Night Come On Bells End The Day",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 86,
+      "artist": "The Books",
+      "album": "Thought For Food",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 90,
+      "artist": "Kali Malone",
+      "album": "All Life Long",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 94,
+      "artist": "claire rousay",
+      "album": "a softer focus",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 98,
+      "artist": "Julia Holter",
+      "album": "Aviary",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 102,
+      "artist": "The Olivia Tremor Control",
+      "album": "Black Foliage: Animation Music Volume One",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 106,
+      "artist": "Mount Eerie",
+      "album": "Ocean Roar",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 110,
+      "artist": "Efrim Manuel Menuck & Kevin Doria",
+      "album": "are SING SINCK, SING",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 114,
+      "artist": "Throwing Snow",
+      "album": "Embers",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 118,
+      "artist": "William Basinski",
+      "album": "Cascade",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 122,
+      "artist": "Sarah Davachi",
+      "album": "Pale Bloom",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 126,
+      "artist": "Dan Friel",
+      "album": "Life",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 130,
+      "artist": "Napoleon IIIrd",
+      "album": "Christiania",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 134,
+      "artist": "Sandro Perri",
+      "album": "Impossible Spaces",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 137,
+      "artist": "Sarah Davachi",
+      "album": "Gave In Rest",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 141,
+      "artist": "Tim Hecker",
+      "album": "Konoyo",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 145,
+      "artist": "Dawn of Midi",
+      "album": "Dysnomia",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 76,
+      "artist": "Blackout Beach",
+      "album": "Fuck Death",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 80,
+      "artist": "Nivhek",
+      "album": "After its own death / Walking in a spiral towards the house",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 84,
+      "artist": "Space Afrika",
+      "album": "Honest Labour",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 88,
+      "artist": "Maya Shenfeld",
+      "album": "Under the Sun",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 92,
+      "artist": "Lana Del Rabies",
+      "album": "Strega Beata",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 94,
+      "artist": "Sorry",
+      "album": "Twixtustwain",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 98,
+      "artist": "The Necks",
+      "album": "Vertigo",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 102,
+      "artist": "Daniel Blumberg",
+      "album": "On&On",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 106,
+      "artist": "GAS",
+      "album": "Narkopop",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 110,
+      "artist": "Fuck Buttons",
+      "album": "Street Horrrsing",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 114,
+      "artist": "Fantômas",
+      "album": "Suspended Animation",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 118,
+      "artist": "William Basinski",
+      "album": "The Deluge",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 120,
+      "artist": "Braids",
+      "album": "Flourish // Perish",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 124,
+      "artist": "Animal Collective",
+      "album": "ODDSAC",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 126,
+      "artist": "Dylan Carlson",
+      "album": "Conquistador",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 130,
+      "artist": "Mat Ball",
+      "album": "Amplified Guitar",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 133,
+      "artist": "Lustmord",
+      "album": "The Word as Power",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 137,
+      "artist": "Hauschka",
+      "album": "Salon Des Amateurs",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 141,
+      "artist": "Lawrence English",
+      "album": "Cruel Optimism",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 145,
+      "artist": "Scott Walker",
+      "album": "Bish Bosch",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 149,
+      "artist": "Black Dice",
+      "album": "Load Blown",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 153,
+      "artist": "Pharmakon",
+      "album": "Bestial Burden",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 157,
+      "artist": "Ethel Cain",
+      "album": "Perverts",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 161,
+      "artist": "Date Palms",
+      "album": "The Dusted Sessions",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 165,
+      "artist": "Tim Hecker",
+      "album": "Shards",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 101,
+      "artist": "Pete Swanson",
+      "album": "Punk Authority",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 105,
+      "artist": "Rashad Becker",
+      "album": "Traditional Music of Notional Species Vol. I",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 109,
+      "artist": "Broadcast and the Focus Group",
+      "album": "Investigate Witch Cults of the Radio Age",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 113,
+      "artist": "Windy & Carl",
+      "album": "Songs for the Broken Hearted",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 117,
+      "artist": "Matana Roberts",
+      "album": "Coin Coin Chapter Three: River Run Thee",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 121,
+      "artist": "Anna von Hausswolff",
+      "album": "All Thoughts Fly",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 125,
+      "artist": "Boris & Sunn O)))",
+      "album": "Altar",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 129,
+      "artist": "Keiji Haino & Sumac",
+      "album": "American Dollar Bill - Keep Facing Sideways, You're Too Hideous To Look At Face On",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 133,
+      "artist": "Mouse on Mars",
+      "album": "AAI",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 137,
+      "artist": "Steve Hauschildt",
+      "album": "Tragedy & Geometry",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 141,
+      "artist": "Laurence Pike",
+      "album": "Holy Spring",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 145,
+      "artist": "Setting",
+      "album": "Shone a Rainbow Light On",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 149,
+      "artist": "Kali Malone",
+      "album": "Does Spring Hide Its Joy",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 153,
+      "artist": "Jane Weaver",
+      "album": "Loops In The Secret Society",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 157,
+      "artist": "Black Dice",
+      "album": "Creature Comforts",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 160,
+      "artist": "Matmos",
+      "album": "Regards​/​Ukłony dla Bogusław Schaeffer",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 164,
+      "artist": "Benoît Pioulard",
+      "album": "Sonnet",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 168,
+      "artist": "Aaron Dilloway",
+      "album": "The Gag File",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 172,
+      "artist": "Adam Wiltzie",
+      "album": "Eleven Fugues For Sodium Pentothal",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 174,
+      "artist": "Perfume Genius",
+      "album": "Ugly Season",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 178,
+      "artist": "Jefre Cantu-Ledesma",
+      "album": "Tracing Back the Radiance",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 182,
+      "artist": "Windy & Carl",
+      "album": "We Will Always Be",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 185,
+      "artist": "Kyle Bobby Dunn",
+      "album": "A Young Person's Guide To",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 189,
+      "artist": "Autechre",
+      "album": "Confield",
+      "year": 0,
+      "genre": "experimental"
+    },
+    {
+      "rank": 193,
+      "artist": "Loraine James",
+      "album": "Building Something Beautiful for Me",
+      "year": 0,
+      "genre": "experimental"
+    }
+  ],
+  "timestamp": "2025-04-29T18:53:21.512Z",
+  "totalAlbums": 125,
+  "pagesScraped": 5
+}
